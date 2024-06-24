@@ -1,18 +1,11 @@
 ---
 layout: page
-title: About
+title: Über
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Das Bitcoin Socratic Seminar Online ist die deutschsprachige Ausgabe der Bitcoin Socratic Seminar Inintiative, welche 2013 in New York gegründet wurde [bitdevs.org/about](https://bitdevs.org/about). Es geht um hauptsächlich technische Diskussionen der Ereignisse des letzten Monats in der Bitcoin-Welt. Dazu wird hier einige Tage vor dem Termin eine Linkliste zur Vorbereitung veröffentlicht. Jeder ist herzlich eingeladen, an der Diskussion teilzunehmen.
 
 
-[jekyll-organization]: https://github.com/jekyll
+
+
