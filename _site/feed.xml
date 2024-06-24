@@ -1,8 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.5">Jekyll</generator><link href="http://localhost:4000/OnlineSocraticSeminar/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/OnlineSocraticSeminar/" rel="alternate" type="text/html" /><updated>2024-06-24T21:33:07+02:00</updated><id>http://localhost:4000/OnlineSocraticSeminar/feed.xml</id><title type="html">Bitcoin Socratic Seminar Online</title><subtitle></subtitle><entry><title type="html">Online Socratic Seminar #1</title><link href="http://localhost:4000/OnlineSocraticSeminar/jekyll/update/2024/06/24/online-socratic-seminar-1.html" rel="alternate" type="text/html" title="Online Socratic Seminar #1" /><published>2024-06-24T13:16:32+02:00</published><updated>2024-06-24T13:16:32+02:00</updated><id>http://localhost:4000/OnlineSocraticSeminar/jekyll/update/2024/06/24/online-socratic-seminar-1</id><content type="html" xml:base="http://localhost:4000/OnlineSocraticSeminar/jekyll/update/2024/06/24/online-socratic-seminar-1.html"><![CDATA[<h2 id="securitycvesinfosecresearch">Security/CVEs/InfoSec/Research</h2>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.5">Jekyll</generator><link href="http://localhost:4000/OnlineSocraticSeminar/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/OnlineSocraticSeminar/" rel="alternate" type="text/html" /><updated>2024-06-24T22:00:03+02:00</updated><id>http://localhost:4000/OnlineSocraticSeminar/feed.xml</id><title type="html">Bitcoin Socratic Seminar Online</title><subtitle></subtitle><entry><title type="html">Online Socratic Seminar #1</title><link href="http://localhost:4000/OnlineSocraticSeminar/jekyll/update/2024/06/24/online-socratic-seminar-1.html" rel="alternate" type="text/html" title="Online Socratic Seminar #1" /><published>2024-06-24T13:16:32+02:00</published><updated>2024-06-24T13:16:32+02:00</updated><id>http://localhost:4000/OnlineSocraticSeminar/jekyll/update/2024/06/24/online-socratic-seminar-1</id><content type="html" xml:base="http://localhost:4000/OnlineSocraticSeminar/jekyll/update/2024/06/24/online-socratic-seminar-1.html"><![CDATA[<h2 id="securitycvesinfosecresearch">Security/CVEs/InfoSec/Research</h2>
 
 <ul>
   <li><a href="https://eprint.iacr.org/2022/1676.pdf">Concurrently secure blind Schnorr signatures</a></li>
-  <li><a href=""></a></li>
+  <li><a href="https://morehouse.github.io/lightning/lnd-onion-bomb/">LND vulnerability disclosed: DoS Onion Bomb</a></li>
+  <li><a href="https://github.com/cryptoquick/bips/blob/p2qrh/bip-p2qrh.mediawiki">QuBit - Quantum Resistant Addresses</a></li>
 </ul>
 
 <h2 id="miscellaneous">Miscellaneous</h2>
@@ -15,21 +16,15 @@
   <li><a href="https://blog.wasabiwallet.io/wasabi-wallet-2-0-8-release-post/?ref=nobsbitcoin.com">Wasabi Wallet 2.0.8 with custom coordinator</a></li>
   <li><a href="https://gist.github.com/darosior/eb71638f20968f0dc896c4261a127be6">Bitcoin Core vulnerability disclosure policy discussions report</a></li>
   <li><a href="https://blog.lopp.net/effects-dbcache-size-bitcoin-node-sync-speed/?ref=cypherpunk-cogitations-newsletter">Effects of DBcache Size on Bitcoin Node Sync Speed</a></li>
-</ul>
-
-<h2 id="network-data">Network Data</h2>
-
-<ul>
-  <li><a href=""></a></li>
-  <li><a href=""></a></li>
-  <li><a href=""></a></li>
+  <li><a href="https://www.blocktrainer.de/blog/mtgox-startet-bitcoin-rueckzahlungen">Mt. Gox startet Bitcoin-Rückzahlungen</a></li>
+  <li><a href="https://bitcoinmagazine.com/technical/bitcoin-lightning-alliance-to-accelerate-adoption-using-new-asset-protocol">BITCOIN LIGHTNING ALLIANCE TO ACCELERATE ADOPTION USING NEW ASSET PROTOCOL</a></li>
+  <li><a href="https://delvingbitcoin.org/t/silent-payments-light-client-protocol/891">Silent Payments Light Client</a></li>
 </ul>
 
 <h2 id="europegermanyberlin">Europe/Germany/Berlin</h2>
 
 <ul>
-  <li><a href=""></a></li>
-  <li><a href=""></a></li>
+  <li><a href="https://www.spiegel.de/netzwelt/web/bitcoin-sachsen-sitzt-auf-digitalwaehrung-im-milliardenwert-macht-es-sie-jetzt-zu-geld-a-b8aa866f-70b4-492d-9f0a-7af76aeb3701]">Was macht Sachsen mit seinen Bitcoins im Milliardenwert?</a></li>
 </ul>
 
 <h2 id="mailing-lists">Mailing Lists</h2>
@@ -39,8 +34,6 @@
 <ul>
   <li><a href="https://mailing-list.bitcoindevs.xyz/bitcoindev/a6e3VPsXJf9p3gt_FmNF_Up-wrFuNMKTN30-xCSDHBKXzXnSpVflIZIj2NQ8Wos4PhQCzI2mWEMvIms_FAEs7rQdL15MpC_Phmu_fnR9iTg=@protonmail.com/">Testnet4 BIP draft</a></li>
   <li><a href="https://mailing-list.bitcoindevs.xyz/bitcoindev/d5f47120-3397-4f56-93ca-dd310d845f3cn@googlegroups.com/T/#u">Utreexod beta release</a></li>
-  <li><a href=""></a></li>
-  <li><a href=""></a></li>
 </ul>
 
 <h3 id="delving-bitcoin">Delving Bitcoin</h3>
@@ -48,34 +41,4 @@
 <ul>
   <li><a href="https://delvingbitcoin.org/t/proposed-risk-framework-for-bitcoin-l2s-and-sidechains/933">Risk framework for Bitcoin L2s and Sidechains</a></li>
   <li><a href="https://rubin.io/public/pdfs/fedcov.pdf">FE’d Up Covenants</a></li>
-  <li><a href=""></a></li>
-</ul>
-
-<h2 id="pull-requests">Pull requests</h2>
-
-<h3 id="bips-bolts-and-proposals">BIPs, BOLTs and Proposals</h3>
-
-<ul>
-  <li><a href="https://delvingbitcoin.org/t/silent-payments-light-client-protocol/891">Silent Payments Light Client</a></li>
-  <li><a href="https://github.com/cryptoquick/bips/blob/p2qrh/bip-p2qrh.mediawiki">QuBit - Quantum Resistant Addresses</a></li>
-  <li><a href=""></a></li>
-  <li><a href=""></a></li>
-</ul>
-
-<h3 id="bitcoin-core">Bitcoin Core</h3>
-
-<ul>
-  <li><a href=""></a></li>
-  <li><a href=""></a></li>
-  <li><a href=""></a></li>
-  <li><a href=""></a></li>
-</ul>
-
-<h3 id="lnd-core-lightning-eclair">LND, Core Lightning, Eclair</h3>
-
-<ul>
-  <li><a href="https://morehouse.github.io/lightning/lnd-onion-bomb/">LND vulnerability disclosed: DoS Onion Bomb</a></li>
-  <li><a href=""></a></li>
-  <li><a href=""></a></li>
-  <li><a href=""></a></li>
 </ul>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[Security/CVEs/InfoSec/Research]]></summary></entry></feed>
