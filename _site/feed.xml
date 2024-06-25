@@ -1,4 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.5">Jekyll</generator><link href="http://localhost:4000/OnlineSocraticSeminar/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/OnlineSocraticSeminar/" rel="alternate" type="text/html" /><updated>2024-06-24T22:00:03+02:00</updated><id>http://localhost:4000/OnlineSocraticSeminar/feed.xml</id><title type="html">Bitcoin Socratic Seminar Online</title><subtitle></subtitle><entry><title type="html">Online Socratic Seminar #1</title><link href="http://localhost:4000/OnlineSocraticSeminar/jekyll/update/2024/06/24/online-socratic-seminar-1.html" rel="alternate" type="text/html" title="Online Socratic Seminar #1" /><published>2024-06-24T13:16:32+02:00</published><updated>2024-06-24T13:16:32+02:00</updated><id>http://localhost:4000/OnlineSocraticSeminar/jekyll/update/2024/06/24/online-socratic-seminar-1</id><content type="html" xml:base="http://localhost:4000/OnlineSocraticSeminar/jekyll/update/2024/06/24/online-socratic-seminar-1.html"><![CDATA[<h2 id="securitycvesinfosecresearch">Security/CVEs/InfoSec/Research</h2>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.5">Jekyll</generator><link href="http://localhost:4000/OnlineSocraticSeminar/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/OnlineSocraticSeminar/" rel="alternate" type="text/html" /><updated>2024-06-25T21:20:26+02:00</updated><id>http://localhost:4000/OnlineSocraticSeminar/feed.xml</id><title type="html">Bitcoin Socratic Seminar Online</title><subtitle></subtitle><entry><title type="html">Online Socratic Seminar #1</title><link href="http://localhost:4000/OnlineSocraticSeminar/jekyll/update/2024/06/24/online-socratic-seminar-1.html" rel="alternate" type="text/html" title="Online Socratic Seminar #1" /><published>2024-06-24T13:16:32+02:00</published><updated>2024-06-24T13:16:32+02:00</updated><id>http://localhost:4000/OnlineSocraticSeminar/jekyll/update/2024/06/24/online-socratic-seminar-1</id><content type="html" xml:base="http://localhost:4000/OnlineSocraticSeminar/jekyll/update/2024/06/24/online-socratic-seminar-1.html"><![CDATA[<h2 id="session-links-266-2030">Session links (26.6. 20:30)</h2>
+
+<ul>
+  <li><a href="https://meet.jit.si/moderated/8258683a311677c4d07e7cc16ad5c2d817a285137af52fc0b447177b1faeae6b">Jitsi</a></li>
+  <li><a href="https://fountain.fm/live/ElwnS1CxUZlwUiJBHdsh">fountain.fm</a></li>
+</ul>
+
+<h2 id="securitycvesinfosecresearch">Security/CVEs/InfoSec/Research</h2>
 
 <ul>
   <li><a href="https://eprint.iacr.org/2022/1676.pdf">Concurrently secure blind Schnorr signatures</a></li>
@@ -41,4 +48,4 @@
 <ul>
   <li><a href="https://delvingbitcoin.org/t/proposed-risk-framework-for-bitcoin-l2s-and-sidechains/933">Risk framework for Bitcoin L2s and Sidechains</a></li>
   <li><a href="https://rubin.io/public/pdfs/fedcov.pdf">FE’d Up Covenants</a></li>
-</ul>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[Security/CVEs/InfoSec/Research]]></summary></entry></feed>
+</ul>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[Session links (26.6. 20:30)]]></summary></entry></feed>

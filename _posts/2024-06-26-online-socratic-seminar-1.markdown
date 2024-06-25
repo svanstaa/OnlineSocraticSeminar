@@ -5,7 +5,10 @@ date:   2024-06-24 13:16:32 +0200
 categories: jekyll update
 ---
 
+## Session links (26.6. 20:30)
 
+- [Jitsi](https://meet.jit.si/moderated/8258683a311677c4d07e7cc16ad5c2d817a285137af52fc0b447177b1faeae6b)
+- [fountain.fm](https://fountain.fm/live/ElwnS1CxUZlwUiJBHdsh)
 
 ## Security/CVEs/InfoSec/Research
 
