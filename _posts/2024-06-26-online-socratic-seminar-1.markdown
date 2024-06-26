@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Online Socratic Seminar #1"
-date:   2024-06-24 13:16:32 +0200
+date:   2024-06-25 13:16:32 +0200
 categories: jekyll update
 ---
 
@@ -33,7 +33,7 @@ categories: jekyll update
 
 ## Europe/Germany/Berlin
 
-- [Was macht Sachsen mit seinen Bitcoins im Milliardenwert?](https://www.spiegel.de/netzwelt/web/bitcoin-sachsen-sitzt-auf-digitalwaehrung-im-milliardenwert-macht-es-sie-jetzt-zu-geld-a-b8aa866f-70b4-492d-9f0a-7af76aeb3701])
+- [Was macht Sachsen mit seinen Bitcoins im Milliardenwert?](https://www.spiegel.de/netzwelt/web/bitcoin-sachsen-sitzt-auf-digitalwaehrung-im-milliardenwert-macht-es-sie-jetzt-zu-geld-a-b8aa866f-70b4-492d-9f0a-7af76aeb3701)
 
 
 ## Mailing Lists
