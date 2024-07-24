@@ -48,7 +48,7 @@ categories: jekyll update
 
 
 - [BIP353: DNS Payment Instructions (Bitcoin usernames)](https://github.com/bitcoin/bips/blob/master/bip-0353.mediawiki)
-- [Phoenix adds Bolt12 + BIP353](https://github.com/ACINQ/phoenix/releases/tag/android-v2.3.1 https://github.com/ACINQ/phoenix/releases/tag/android-v2.3.3)
+- [Phoenix adds Bolt12 + BIP353](https://github.com/ACINQ/phoenix/releases/tag/android-v2.3.3)
 - [ZEUS adds Bolt12 + BIP353](https://github.com/ZeusLN/zeus/releases/tag/v0.8.5)
 - [Seth for Privacy: Setting up a bitcoin username](https://sethforprivacy.com/guides/setting-up-a-bitcoin-username/)
 - [Sats to me (BIP353 Resolver)](https://satsto.me/)
