@@ -24,6 +24,7 @@ categories: jekyll update
 - [COPA vs CSW – Injunctions Published](https://www.bailii.org/ew/cases/EWHC/Ch/2024/1809.html)
 - [Bitcoinsearch](https://bitcoinsearch.xyz/)
 - [Introducing Proton Wallet](https://proton.me/blog/proton-wallet-launch)
+- [Ein Bitaxe hat einen Block gefunden](https://x.com/BeeEvolved/status/1816171223677534656) 
 - [Silent Payment support on BitBox](https://x.com/BitBoxSwiss/status/1816103516059971874?t=PUiDVxF48mUyz2IbfWkKzg&s=19
 )
 
