@@ -1,4 +1,47 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.5">Jekyll</generator><link href="http://localhost:4000/OnlineSocraticSeminar/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/OnlineSocraticSeminar/" rel="alternate" type="text/html" /><updated>2024-07-24T19:29:15+02:00</updated><id>http://localhost:4000/OnlineSocraticSeminar/feed.xml</id><title type="html">Bitcoin Socratic Seminar Online</title><subtitle></subtitle><entry><title type="html">Online Socratic Seminar #2</title><link href="http://localhost:4000/OnlineSocraticSeminar/jekyll/update/2024/07/24/online-socratic-seminar-2.html" rel="alternate" type="text/html" title="Online Socratic Seminar #2" /><published>2024-07-24T10:30:00+02:00</published><updated>2024-07-24T10:30:00+02:00</updated><id>http://localhost:4000/OnlineSocraticSeminar/jekyll/update/2024/07/24/online-socratic-seminar-2</id><content type="html" xml:base="http://localhost:4000/OnlineSocraticSeminar/jekyll/update/2024/07/24/online-socratic-seminar-2.html"><![CDATA[<h2 id="session-links-247-2030">Session links (24.7. 20:30)</h2>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.5">Jekyll</generator><link href="http://localhost:4000/OnlineSocraticSeminar/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/OnlineSocraticSeminar/" rel="alternate" type="text/html" /><updated>2024-09-01T21:19:12+02:00</updated><id>http://localhost:4000/OnlineSocraticSeminar/feed.xml</id><title type="html">Bitcoin Socratic Seminar Online</title><subtitle></subtitle><entry><title type="html">Online Socratic Seminar #3</title><link href="http://localhost:4000/OnlineSocraticSeminar/jekyll/update/2024/08/26/online-socratic-seminar-3.html" rel="alternate" type="text/html" title="Online Socratic Seminar #3" /><published>2024-08-26T10:30:00+02:00</published><updated>2024-08-26T10:30:00+02:00</updated><id>http://localhost:4000/OnlineSocraticSeminar/jekyll/update/2024/08/26/online-socratic-seminar-3</id><content type="html" xml:base="http://localhost:4000/OnlineSocraticSeminar/jekyll/update/2024/08/26/online-socratic-seminar-3.html"><![CDATA[<h2 id="session-links-288-2030">Session links (28.8. 20:30)</h2>
+
+<ul>
+  <li><a href="https://meet.jit.si/moderated/8258683a311677c4d07e7cc16ad5c2d817a285137af52fc0b447177b1faeae6b">Jitsi</a></li>
+  <li><a href="https://serve.podhome.fm/episodepage/bitcoin-socratic-seminar/3">Podcast Player</a></li>
+</ul>
+
+<h2 id="securitycvesinfosecresearch">Security/CVEs/InfoSec/Research</h2>
+
+<ul>
+  <li><a href="https://darkskippy.com/">Dark Skippy: a method for a malicious signing device to leak secret keys</a></li>
+  <li><a href="https://bitcoinmagazine.com/business/university-of-wyoming-launches-first-bitcoin-research-institute">University of Wyoming launches Bitcoin research institute</a></li>
+  <li><a href="https://bitbox.swiss/blog/anti-klepto-explained-protection-against-leaking-private-keys/">Anti-klepto protocol against malicious seed leaking via transaction signatures</a></li>
+  <li><a href="https://www.usenix.org/system/files/woot24-scott.pdf">Engineering a backdoored bitcoin wallet</a></li>
+</ul>
+
+<h2 id="miscellaneous">Miscellaneous</h2>
+
+<ul>
+  <li><a href="https://lightning.engineering/posts/2024-07-23-taproot-assets-LN/">Taproot Assets Mainnet Launch</a></li>
+  <li><a href="https://x.com/davidlripley/status/1815880303254323603">Mt Gox coins finally distributed</a></li>
+  <li><a href="https://blog.lopp.net/problems-with-coinbase-withdrawal-fees/?ref=cypherpunk-cogitations-newsletter">Problems with Coinbase Withdrawal Fees</a></li>
+  <li><a href="https://x.com/mempool/status/1828057401968533629">The Mempool Open Source Project® v3.0.0 is here</a></li>
+</ul>
+
+<h2 id="network-data">Network Data</h2>
+
+<ul>
+  <li><a href="https://b10c.me/blog/014-mining-pool-behavior-during-forks/">Mining Pool Behavior during Forks</a></li>
+</ul>
+
+<h2 id="europegermanyberlin">Europe/Germany/Berlin</h2>
+
+<ul>
+  <li><a href="https://www.bafin.de/SharedDocs/Veroeffentlichungen/DE/Pressemitteilung/2024/pm_2024_08_20_Krypto_Automaten.html">Bafin Razzia gegen Bitcoinautomaten</a></li>
+</ul>
+
+<h3 id="bitcoin-core">Bitcoin Core</h3>
+
+<ul>
+  <li><a href="https://github.com/bitcoin/bitcoin/pull/29775">Testnet4 including PoW difficulty adjustment fix</a></li>
+  <li><a href="https://github.com/bitcoin/bitcoin/pull/28553">assumeutxo params mainnet</a></li>
+  <li><a href="https://github.com/bitcoin/bitcoin/pull/30246">asmap-tool - Compare ASMaps with respect to specific addresses</a></li>
+</ul>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[Session links (28.8. 20:30)]]></summary></entry><entry><title type="html">Online Socratic Seminar #2</title><link href="http://localhost:4000/OnlineSocraticSeminar/jekyll/update/2024/07/24/online-socratic-seminar-2.html" rel="alternate" type="text/html" title="Online Socratic Seminar #2" /><published>2024-07-24T10:30:00+02:00</published><updated>2024-07-24T10:30:00+02:00</updated><id>http://localhost:4000/OnlineSocraticSeminar/jekyll/update/2024/07/24/online-socratic-seminar-2</id><content type="html" xml:base="http://localhost:4000/OnlineSocraticSeminar/jekyll/update/2024/07/24/online-socratic-seminar-2.html"><![CDATA[<h2 id="session-links-247-2030">Session links (24.7. 20:30)</h2>
 
 <ul>
   <li><a href="https://meet.jit.si/moderated/8258683a311677c4d07e7cc16ad5c2d817a285137af52fc0b447177b1faeae6b">Jitsi</a></li>
