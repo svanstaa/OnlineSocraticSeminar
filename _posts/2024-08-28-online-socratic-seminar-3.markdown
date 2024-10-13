@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "Online Socratic Seminar #3"
-date:   2024-08-26 10:30:00 +0200
-categories: jekyll update
 ---
 
 ## Session links (28.8. 20:30)
