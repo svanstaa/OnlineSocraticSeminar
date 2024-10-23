@@ -1,8 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-10-21T16:58:26+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Bitcoin Socratic Seminar Online</title><subtitle></subtitle><entry><title type="html">Online Socratic Seminar #5</title><link href="http://localhost:4000/2024/10/23/online-socratic-seminar-5.html" rel="alternate" type="text/html" title="Online Socratic Seminar #5" /><published>2024-10-23T00:00:00+02:00</published><updated>2024-10-23T00:00:00+02:00</updated><id>http://localhost:4000/2024/10/23/online-socratic-seminar-5</id><content type="html" xml:base="http://localhost:4000/2024/10/23/online-socratic-seminar-5.html"><![CDATA[<h2 id="session-links-2310-2030">Session links (23.10. 20:30)</h2>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-10-23T15:39:55+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Bitcoin Socratic Seminar Online</title><subtitle></subtitle><entry><title type="html">Online Socratic Seminar #5</title><link href="http://localhost:4000/2024/10/23/online-socratic-seminar-5.html" rel="alternate" type="text/html" title="Online Socratic Seminar #5" /><published>2024-10-23T00:00:00+02:00</published><updated>2024-10-23T00:00:00+02:00</updated><id>http://localhost:4000/2024/10/23/online-socratic-seminar-5</id><content type="html" xml:base="http://localhost:4000/2024/10/23/online-socratic-seminar-5.html"><![CDATA[<h2 id="session-links-2310-2030">Session links (23.10. 20:30)</h2>
 
 <ul>
   <li><a href="https://meet.jit.si/moderated/8258683a311677c4d07e7cc16ad5c2d817a285137af52fc0b447177b1faeae6b">Jitsi</a></li>
   <li><a href="https://fountain.fm/show/ZRopbw0irxT5HgbS3XYq">fountain.fm</a></li>
+</ul>
+
+<h2 id="special-guest">Special Guest</h2>
+<ul>
+  <li><a href="https://x.com/robin_linus">Robin Linus</a></li>
+  <li><a href="https://ark-protocol.org/">Ark Protocol</a></li>
 </ul>
 
 <h2 id="securitycvesinfosecresearch">Security/CVEs/InfoSec/Research</h2>
@@ -20,6 +26,7 @@
   <li><a href="https://ocean.xyz/docs/datum">Decentralized Alternative Templates for Universal Mining</a></li>
   <li><a href="https://blog.lopp.net/slow-block-validation-attacks/?ref=cypherpunk-cogitations-newsletter">Slow Block Validation Attacks</a></li>
   <li><a href="https://bitcoindevs.xyz/decoding">interactive learning experience designed to help you become confident in Bitcoin development</a></li>
+  <li><a href="https://bitbox.swiss/blog/bitbox-10-2024-lugano-update/">Bitbox Lugano Update</a></li>
 </ul>
 
 <h2 id="network-data">Network Data</h2>

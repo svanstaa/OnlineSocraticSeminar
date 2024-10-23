@@ -8,6 +8,10 @@ title: "Online Socratic Seminar #5"
 - [Jitsi](https://meet.jit.si/moderated/8258683a311677c4d07e7cc16ad5c2d817a285137af52fc0b447177b1faeae6b)
 - [fountain.fm](https://fountain.fm/show/ZRopbw0irxT5HgbS3XYq)
 
+## Special Guest
+- [Robin Linus](https://x.com/robin_linus)
+- [Ark Protocol](https://ark-protocol.org/)
+
 ## Security/CVEs/InfoSec/Research
 
 - [How Chainalysis Made Their Way into Popular Monero Wallets](https://www.digilol.net/blog/chainanalysis-malicious-xmr.html)
@@ -20,6 +24,7 @@ title: "Online Socratic Seminar #5"
 - [Decentralized Alternative Templates for Universal Mining](https://ocean.xyz/docs/datum)
 - [Slow Block Validation Attacks](https://blog.lopp.net/slow-block-validation-attacks/?ref=cypherpunk-cogitations-newsletter)
 - [interactive learning experience designed to help you become confident in Bitcoin development](https://bitcoindevs.xyz/decoding)
+- [Bitbox Lugano Update](https://bitbox.swiss/blog/bitbox-10-2024-lugano-update/)
 
 ## Network Data
 
