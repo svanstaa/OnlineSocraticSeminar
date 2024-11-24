@@ -1,8 +1,48 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-10-30T05:39:57+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Bitcoin Socratic Seminar Online</title><subtitle></subtitle><entry><title type="html">Online Socratic Seminar 6</title><link href="http://localhost:4000/2024/11/27/online-socratic-seminar-6.html" rel="alternate" type="text/html" title="Online Socratic Seminar 6" /><published>2024-11-27T00:00:00+01:00</published><updated>2024-11-27T00:00:00+01:00</updated><id>http://localhost:4000/2024/11/27/online-socratic-seminar-6</id><content type="html" xml:base="http://localhost:4000/2024/11/27/online-socratic-seminar-6.html"><![CDATA[<h2 id="session-links-2711-2030">Session links (27.11. 20:30)</h2>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-11-25T00:30:47+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Bitcoin Socratic Seminar Online</title><subtitle></subtitle><entry><title type="html">Online Socratic Seminar #6</title><link href="http://localhost:4000/2024/11/27/online-socratic-seminar-6.html" rel="alternate" type="text/html" title="Online Socratic Seminar #6" /><published>2024-11-27T00:00:00+01:00</published><updated>2024-11-27T00:00:00+01:00</updated><id>http://localhost:4000/2024/11/27/online-socratic-seminar-6</id><content type="html" xml:base="http://localhost:4000/2024/11/27/online-socratic-seminar-6.html"><![CDATA[<h2 id="session-links-2711-2030">Session links (27.11. 20:30)</h2>
 
 <ul>
   <li><a href="https://meet.jit.si/moderated/8258683a311677c4d07e7cc16ad5c2d817a285137af52fc0b447177b1faeae6b">Jitsi</a></li>
   <li><a href="https://fountain.fm/show/ZRopbw0irxT5HgbS3XYq">fountain.fm</a></li>
+</ul>
+
+<h2 id="securitycvesinfosecresearch">Security/CVEs/InfoSec/Research</h2>
+
+<ul>
+  <li><a href="https://www.bitcoinos.build/">BitcoinOS</a></li>
+  <li><a href="https://bitcoincore.org/en/2024/11/05/cb-stall-hindering-propagation/">Disclosure of hindered block propagation due to stalling peers</a></li>
+  <li><a href="https://github.com/bitcoin-cap/bcap">Lyn Alden, Steve Lee, Ren: Analyzing Bitcoin Consensus: Risks in Protocol Upgrades</a></li>
+  <li><a href="https://colliderscript.co/colliderscript.pdf">Heilman et al., Colliderscript: Covenants in Bitcoin via 160-bit hash collisions</a></li>
+  <li><a href="https://bitvmx.org/">BitVMX: a CPU for Universal Computation on Bitcoin</a></li>
+</ul>
+
+<h2 id="miscellaneous">Miscellaneous</h2>
+
+<ul>
+  <li><a href="https://www.mining.build/blog/introducing-proto-building-the-future-of-bitcoin-mining-hardware-2/">Block Introducing Proto: Building the future of bitcoin mining hardware</a></li>
+  <li><a href="https://blog.lopp.net/bitcoin-node-sync-with-utxo-snapshots/">Boost Your Bitcoin Node Sync With UTXO Snapshots</a></li>
+  <li><a href="https://learning.chaincode.com/">Start your career in bitcoin OSS</a></li>
+  <li><a href="https://emailbtc.net/">Send Bitcoin to anyone that has an email address</a></li>
+  <li><a href="https://2140.dev/">Supporting Bitcoin to 2140 and beyond</a></li>
+</ul>
+
+<h2 id="europegermanyberlin">Europe/Germany/Berlin</h2>
+
+<ul>
+  <li><a href="https://www.telekom.com/en/media/media-information/archive/test-bitcoin-mining-infrastructure-for-surplus-energy-108268">Telekom and Bankhaus Metzler Test Bitcoin Mining Infrastructure for Surplus Energy</a></li>
+</ul>
+
+<h2 id="mailing-lists">Mailing Lists</h2>
+
+<h3 id="bitcoin-dev">bitcoin-dev</h3>
+
+<ul>
+  <li><a href="https://bitcoincore.org/en/releases/28.0/">Neue Bitcoin Core Version 28.0</a></li>
+</ul>
+
+<h3 id="delving-bitcoin">Delving Bitcoin</h3>
+
+<ul>
+  <li><a href="https://delvingbitcoin.org/t/mutation-core-a-mutation-testing-tool-for-bitcoin-core/111">Mutation-core: A mutation testing tool for Bitcoin Core</a></li>
 </ul>]]></content><author><name></name></author><summary type="html"><![CDATA[Session links (27.11. 20:30)]]></summary></entry><entry><title type="html">Online Socratic Seminar #5</title><link href="http://localhost:4000/2024/10/23/online-socratic-seminar-5.html" rel="alternate" type="text/html" title="Online Socratic Seminar #5" /><published>2024-10-23T00:00:00+02:00</published><updated>2024-10-23T00:00:00+02:00</updated><id>http://localhost:4000/2024/10/23/online-socratic-seminar-5</id><content type="html" xml:base="http://localhost:4000/2024/10/23/online-socratic-seminar-5.html"><![CDATA[<h2 id="session-links-2310-2030">Session links (23.10. 20:30)</h2>
 
 <ul>
