@@ -28,7 +28,7 @@ title: "Online Socratic Seminar #7"
 
 # Bitcoin Education
 
-- [BOSS - Bitcoin Open Source Software 2025 recap] (https://alexzaitsev.substack.com/p/boss-bitcoin-open-source-software](BOSS )
+- [BOSS - Bitcoin Open Source Software 2025 recap](https://alexzaitsev.substack.com/p/boss-bitcoin-open-source-software)
 
 ## Mailing Lists
 
