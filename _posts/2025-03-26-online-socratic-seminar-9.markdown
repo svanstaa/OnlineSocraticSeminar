@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Socratic Seminar #9"
+title: "Online Socratic Seminar #9"
 ---
 
 ## Session links (26.03. 20:30)
