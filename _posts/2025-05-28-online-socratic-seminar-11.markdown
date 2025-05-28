@@ -14,7 +14,7 @@ title: "Online Socratic Seminar #11"
 - [CVE-2024-52919 - Remote crash due to addr message spam (part 2)](https://bitcoincore.org/en/2025/04/28/disclose-cve-2024-52919/)
 - [secp256k1lab: An INSECURE Python Library That Makes Bitcoin Safer](https://bitcoinmagazine.com/technical/secp256k1lab-an-insecure-python-library-that-makes-bitcoin-safer)
 - [Mempool Space Research: UTXO set report](https://research.mempool.space/utxo-set-report/)
-- [Bitmex research: The 2025 spam attacks](https://blog.bitmex.com/the-2015-spam-attacks/)
+- [Bitmex research: The 2015 spam attacks](https://blog.bitmex.com/the-2015-spam-attacks/)
 
 ## Miscellaneous
 
