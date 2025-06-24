@@ -19,7 +19,7 @@ title: "Online Socratic Seminar #12"
 - [Eindrücke von Sebastian und Emzy von der BTC Prag Konferenz]()
 - [MnemonicMaker: A Serious Game for Reconstructing Bitcoin Wallet Mnemonic Phrases](https://journal.seriousgamessociety.org/index.php/IJSG/article/view/911)
 - [Block Number-Based Address Clustering for Bitcoin Taproot Upgrade](https://ieeexplore.ieee.org/abstract/document/11005452)
-- [External plugins for Electrum] (https://electrum.readthedocs.io/en/latest/plugins.html)
+- [External plugins for Electrum](https://electrum.readthedocs.io/en/latest/plugins.html)
 - [Demand - First Fully Stratum V2 Pool](https://www.dmnd.work/)
 
 
