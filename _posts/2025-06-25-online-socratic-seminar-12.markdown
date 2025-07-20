@@ -33,7 +33,6 @@ title: "Online Socratic Seminar #12"
 
 - [Bitcoin für die breite Masse](https://archive.is/2oKuH#selection-2381.0-2381.28)
 - [Arbeitslohn in Bitcoin](https://www.vdaa.de/pressemitteilungen/arbeitslohn-in-bitcoin-co-gericht-sagt-ja/)
-- [Volksbanken ermöglichen BTC Kauf/Verkauf für 30 Millionen Kunden](https://archive.is/2oKuH)
 
 ## Mailing Lists
 
