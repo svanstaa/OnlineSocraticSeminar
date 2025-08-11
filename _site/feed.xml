@@ -1,9 +1,475 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-12-04T15:22:30+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Bitcoin Socratic Seminar Online</title><subtitle></subtitle><entry><title type="html">Online Socratic Seminar #7</title><link href="http://localhost:4000/2025/01/22/online-socratic-seminar-7.html" rel="alternate" type="text/html" title="Online Socratic Seminar #7" /><published>2025-01-22T00:00:00+01:00</published><updated>2025-01-22T00:00:00+01:00</updated><id>http://localhost:4000/2025/01/22/online-socratic-seminar-7</id><content type="html" xml:base="http://localhost:4000/2025/01/22/online-socratic-seminar-7.html"><![CDATA[<h2 id="session-links-2201-2030">Session links (22.01. 20:30)</h2>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.5">Jekyll</generator><link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://0.0.0.0:4000/" rel="alternate" type="text/html" /><updated>2025-08-11T17:04:35+02:00</updated><id>http://0.0.0.0:4000/feed.xml</id><title type="html">Bitcoin Socratic Seminar Online</title><subtitle></subtitle><entry><title type="html">Online Socratic Seminar #14</title><link href="http://0.0.0.0:4000/2025/08/27/online-socratic-seminar-14.html" rel="alternate" type="text/html" title="Online Socratic Seminar #14" /><published>2025-08-27T00:00:00+02:00</published><updated>2025-08-27T00:00:00+02:00</updated><id>http://0.0.0.0:4000/2025/08/27/online-socratic-seminar-14</id><content type="html" xml:base="http://0.0.0.0:4000/2025/08/27/online-socratic-seminar-14.html"><![CDATA[<h2 id="session-links-278-2030">Session links (27.8. 20:30)</h2>
 
 <ul>
   <li><a href="https://meet.jit.si/moderated/8258683a311677c4d07e7cc16ad5c2d817a285137af52fc0b447177b1faeae6b">Jitsi</a></li>
   <li><a href="https://fountain.fm/show/ZRopbw0irxT5HgbS3XYq">fountain.fm</a></li>
-</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[Session links (22.01. 20:30)]]></summary></entry><entry><title type="html">Online Socratic Seminar #6</title><link href="http://localhost:4000/2024/11/27/online-socratic-seminar-6.html" rel="alternate" type="text/html" title="Online Socratic Seminar #6" /><published>2024-11-27T00:00:00+01:00</published><updated>2024-11-27T00:00:00+01:00</updated><id>http://localhost:4000/2024/11/27/online-socratic-seminar-6</id><content type="html" xml:base="http://localhost:4000/2024/11/27/online-socratic-seminar-6.html"><![CDATA[<h2 id="session-links-2711-2030">Session links (27.11. 20:30)</h2>
+</ul>
+
+<h2 id="securitycvesinfosecresearch">Security/CVEs/InfoSec/Research</h2>
+
+<ul>
+  <li><a href="https://cointelegraph.com/news/crypto-losses-hit-3-1b-in-2025-as-access-control-fails/">Over $3.1 Billion in Crypto Lost in First Half of 2025 Due to Access-Control Exploits</a></li>
+</ul>
+
+<h2 id="miscellaneous">Miscellaneous</h2>
+
+<ul>
+  <li><a href="https://en.wikipedia.org/wiki/2025_Czech_government_Bitcoin_scandal">Czech Government Bitcoin Scandal: Justice Minister Resigns Over 468 BTC Donation</a></li>
+  <li><a href="https://arxiv.org/abs/2501.11798">Quantum Computing Threats to Blockchain Security</a></li>
+</ul>
+
+<h2 id="network-data">Network Data</h2>
+
+<ul>
+  <li><a href="https://en.wikipedia.org/wiki/Transient_execution_CPU_vulnerability">Transient Execution CPU Vulnerabilities Affecting AMD Zen 3 and Zen 4</a></li>
+  <li><a href=""></a></li>
+</ul>
+
+<h2 id="europegermanyberlin">Europe/Germany/Berlin</h2>
+
+<ul>
+  <li><a href="https://hawk-eye.io/2025/07/weekly-threat-landscape-digest-week-28/">CVE-2025-46788: Zoom Workplace for Linux Certificate Validation Vulnerability</a></li>
+  <li><a href=""></a></li>
+</ul>
+
+<h2 id="mailing-lists">Mailing Lists</h2>
+
+<h3 id="bitcoin-dev">bitcoin-dev</h3>
+
+<ul>
+  <li><a href="https://bitcoinops.org/en/newsletters/2025/08/01/">Bitcoin Optech Newsletter #365 - Recent Releases and Code Changes</a></li>
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
+</ul>
+
+<h3 id="delving-bitcoin">Delving Bitcoin</h3>
+
+<ul>
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
+</ul>
+
+<h2 id="pull-requests">Pull requests</h2>
+
+<h3 id="bips-bolts-and-proposals">BIPs, BOLTs and Proposals</h3>
+
+<ul>
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
+</ul>
+
+<h3 id="bitcoin-core">Bitcoin Core</h3>
+
+<ul>
+  <li><a href="https://bitcoinops.org/en/newsletters/2025/08/01/">Bitcoin Core 29.1 Release Candidate 1</a></li>
+  <li><a href="https://bitcoinops.org/en/newsletters/2025/08/01/">PR #29954: Extend getmempoolinfo RPC with relay policy fields</a></li>
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
+</ul>
+
+<h3 id="lnd">LND</h3>
+
+<ul>
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
+</ul>
+
+<h3 id="eclair">Eclair</h3>
+
+<ul>
+  <li><a href="https://bitcoinops.org/en/newsletters/2025/03/14/">Eclair v0.12.0 Release: BOLT12 Offers and RBF Channel Closing</a></li>
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
+</ul>
+
+<h3 id="bdk--ldk">BDK &amp; LDK</h3>
+
+<ul>
+  <li><a href="https://bitcoinops.org/en/newsletters/2025/08/01/">LDK #3246: BOLT12 Offers and Refunds Without Blinded Path</a></li>
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
+</ul>
+
+<h3 id="core-lightning">Core Lightning</h3>
+
+<ul>
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
+</ul>
+
+<h3 id="secp256k1">Secp256k1</h3>
+
+<ul>
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
+</ul>
+
+<h3 id="hwi">HWI</h3>
+
+<ul>
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
+</ul>
+
+<h3 id="btcpayserver">BTCPayServer</h3>
+
+<ul>
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
+</ul>
+
+<h3 id="rust-bitcoin">rust-bitcoin</h3>
+
+<ul>
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
+</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[Session links (27.8. 20:30)]]></summary></entry><entry><title type="html">Online Socratic Seminar #13</title><link href="http://0.0.0.0:4000/2025/07/23/online-socratic-seminar-13.html" rel="alternate" type="text/html" title="Online Socratic Seminar #13" /><published>2025-07-23T00:00:00+02:00</published><updated>2025-07-23T00:00:00+02:00</updated><id>http://0.0.0.0:4000/2025/07/23/online-socratic-seminar-13</id><content type="html" xml:base="http://0.0.0.0:4000/2025/07/23/online-socratic-seminar-13.html"><![CDATA[<h2 id="session-links-237-2030">Session links (23.7. 20:30)</h2>
+
+<ul>
+  <li><a href="https://meet.jit.si/moderated/8258683a311677c4d07e7cc16ad5c2d817a285137af52fc0b447177b1faeae6b">Jitsi</a></li>
+  <li><a href="https://fountain.fm/show/ZRopbw0irxT5HgbS3XYq">fountain.fm</a></li>
+</ul>
+
+<h2 id="securitycvesinfosecresearch">Security/CVEs/InfoSec/Research</h2>
+
+<ul>
+  <li><a href="https://github.com/jlopp/bips/blob/quantum_migration/bip-post-quantum-migration.mediawiki">BIP: Post Quantum Migration and Legacy Signature Sunset</a></li>
+  <li><a href="https://www.cyphertux.net/articles/en/research/bitcoin-80k-btc-mystere-opreturn">80,000 BTC Moved: A Turning Point in Bitcoin History</a></li>
+</ul>
+
+<h2 id="miscellaneous">Miscellaneous</h2>
+
+<ul>
+  <li><a href="https://bennet.org/blog/how-secure-is-your-bitcoin-wallets-mnemonic-seed-phrase/">How secure is your Bitcoin wallet’s mnemonic seed phrase?</a></li>
+  <li><a href="https://x.com/mononautical/status/1946071439066718583">Current state of sub 1 sat/vbyte summer</a></li>
+  <li><a href="https://s3.us-east-1.amazonaws.com/1a1z.com/files/1A1z+-+Running+Bitcoin+-+Client+Comparison.pdf">Running bitcoin - From Core to Code - A Comparison of Clients</a></li>
+  <li><a href="https://github.com/spesmilo/electrum/blob/master/RELEASE-NOTES">Electrum 4.6.0 released adds support for submarine swaps using nostr for discoverability</a></li>
+</ul>
+
+<h2 id="network-data">Network Data</h2>
+
+<ul>
+  <li><a href="https://b10c.me/observations/15-inv-to-send-queue/">Notes on ‘DoS due to inv-to-send sets growing too large’ from May 2023</a></li>
+  <li>
+    <h2 id="europegermanyberlin">Europe/Germany/Berlin</h2>
+  </li>
+  <li><a href="https://www.heise.de/news/Oberlandesgericht-Virtuelle-Entwendung-von-Kryptowerten-bleibt-straflos-10484771.html">Admin entwendet Kryptowährung in Millionenwert und bleibt vor Gericht straflos</a></li>
+  <li><a href="https://www.blocktrainer.de/blog/deutsche-bank-krypto-verwahrdienstleistungen-fuer-2026-geplant">Deutsche Bank will Privat- und Firmenkunden Handel und Verwahrung von Bitcoin anbieten</a></li>
+</ul>
+
+<h2 id="mailing-lists">Mailing Lists</h2>
+
+<h3 id="bitcoin-dev">bitcoin-dev</h3>
+
+<ul>
+  <li><a href="https://mailing-list.bitcoindevs.xyz/bitcoindev/CABaSBax-meEsC2013zKYJnC3phFFB_W3cHQLroUJcPDZKsjB8w@mail.gmail.com/">The case for privatizing Bitcoin Core</a></li>
+</ul>
+
+<h3 id="delving-bitcoin">Delving Bitcoin</h3>
+
+<ul>
+  <li><a href="https://delvingbitcoin.org/t/fingerprinting-nodes-via-addr-requests/1786/1">Fingerprinting nodes via addr requests</a></li>
+</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[Session links (23.7. 20:30)]]></summary></entry><entry><title type="html">Online Socratic Seminar #12</title><link href="http://0.0.0.0:4000/2025/06/25/online-socratic-seminar-12.html" rel="alternate" type="text/html" title="Online Socratic Seminar #12" /><published>2025-06-25T00:00:00+02:00</published><updated>2025-06-25T00:00:00+02:00</updated><id>http://0.0.0.0:4000/2025/06/25/online-socratic-seminar-12</id><content type="html" xml:base="http://0.0.0.0:4000/2025/06/25/online-socratic-seminar-12.html"><![CDATA[<h2 id="session-links-256-2030">Session links (25.6. 20:30)</h2>
+
+<ul>
+  <li><a href="https://meet.jit.si/moderated/8258683a311677c4d07e7cc16ad5c2d817a285137af52fc0b447177b1faeae6b">Jitsi</a></li>
+  <li><a href="https://fountain.fm/show/ZRopbw0irxT5HgbS3XYq">fountain.fm</a></li>
+</ul>
+
+<h2 id="securitycvesinfosecresearch">Security/CVEs/InfoSec/Research</h2>
+
+<ul>
+  <li><a href="https://chaincode.com/bitcoin-post-quantum.pdf">Bitcoin and Quantum Computing: Current Status and Future Directions</a></li>
+  <li><a href="https://archive.ph/2025.05.26-083023/https://www.spektrum.de/news/bitcoin-und-proof-of-work-zwischen-sicherheit-und-stromverbrauch/2267443#selection-1679.515-1679.632">Warum Bitcoin nicht umweltfreundlicher wird</a></li>
+</ul>
+
+<h2 id="miscellaneous">Miscellaneous</h2>
+
+<ul>
+  <li><a href="">Eindrücke von Sebastian und Emzy von der BTC Prag Konferenz</a></li>
+  <li><a href="https://journal.seriousgamessociety.org/index.php/IJSG/article/view/911">MnemonicMaker: A Serious Game for Reconstructing Bitcoin Wallet Mnemonic Phrases</a></li>
+  <li><a href="https://ieeexplore.ieee.org/abstract/document/11005452">Block Number-Based Address Clustering for Bitcoin Taproot Upgrade</a></li>
+  <li><a href="https://electrum.readthedocs.io/en/latest/plugins.html">External plugins for Electrum</a></li>
+  <li><a href="https://www.dmnd.work/">Demand - First Fully Stratum V2 Pool</a></li>
+</ul>
+
+<h2 id="network-data">Network Data</h2>
+
+<ul>
+  <li><a href="https://bitcoin-data.github.io/non-standard-transactions/">Non-Standard Bitcoin Transaction Dataset</a></li>
+  <li><a href="https://bitcoinmagazine.com/technical/the-bitcoin-mempool-private-mempools">The Bitcoin Mempool: Private Mempools</a></li>
+</ul>
+
+<h2 id="europegermanyberlin">Europe/Germany/Berlin</h2>
+
+<ul>
+  <li><a href="https://archive.is/2oKuH#selection-2381.0-2381.28">Bitcoin für die breite Masse</a></li>
+  <li><a href="https://www.vdaa.de/pressemitteilungen/arbeitslohn-in-bitcoin-co-gericht-sagt-ja/">Arbeitslohn in Bitcoin</a></li>
+</ul>
+
+<h2 id="mailing-lists">Mailing Lists</h2>
+
+<h3 id="bitcoin-dev">bitcoin-dev</h3>
+
+<ul>
+  <li><a href="https://ctv-csfs.com/">Open letter for CTV+CSFS</a></li>
+  <li><a href="https://groups.google.com/g/bitcoindev/c/KJF6A55DPJ8/m/ZWhVgOm7AQAJ?utm_medium=email&amp;utm_source=footer&amp;pli=1">Open letter for CTV+CSFS</a></li>
+  <li><a href="https://groups.google.com/g/bitcoindev/c/bmV1QwYEN4k">Censorship Resistant Transaction Relay - Taking out the garbage(man)</a></li>
+</ul>
+
+<h3 id="other">Other</h3>
+
+<ul>
+  <li><a href="https://github.com/MetacoSA/NBitcoin/pull/1269">NBitcoin Crash Bug</a></li>
+</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[Session links (25.6. 20:30)]]></summary></entry><entry><title type="html">Online Socratic Seminar #11</title><link href="http://0.0.0.0:4000/2025/05/28/online-socratic-seminar-11.html" rel="alternate" type="text/html" title="Online Socratic Seminar #11" /><published>2025-05-28T00:00:00+02:00</published><updated>2025-05-28T00:00:00+02:00</updated><id>http://0.0.0.0:4000/2025/05/28/online-socratic-seminar-11</id><content type="html" xml:base="http://0.0.0.0:4000/2025/05/28/online-socratic-seminar-11.html"><![CDATA[<h2 id="session-links-285-2030">Session links (28.5. 20:30)</h2>
+
+<ul>
+  <li><a href="https://meet.jit.si/moderated/8258683a311677c4d07e7cc16ad5c2d817a285137af52fc0b447177b1faeae6b">Jitsi</a></li>
+  <li><a href="https://fountain.fm/show/ZRopbw0irxT5HgbS3XYq">fountain.fm</a></li>
+</ul>
+
+<h2 id="securitycvesinfosecresearch">Security/CVEs/InfoSec/Research</h2>
+
+<ul>
+  <li><a href="https://bitcoincore.org/en/2025/04/28/disclose-cve-2024-52919/">CVE-2024-52919 - Remote crash due to addr message spam (part 2)</a></li>
+  <li><a href="https://bitcoinmagazine.com/technical/secp256k1lab-an-insecure-python-library-that-makes-bitcoin-safer">secp256k1lab: An INSECURE Python Library That Makes Bitcoin Safer</a></li>
+  <li><a href="https://research.mempool.space/utxo-set-report/">Mempool Space Research: UTXO set report</a></li>
+  <li><a href="https://blog.bitmex.com/the-2015-spam-attacks/">Bitmex research: The 2015 spam attacks</a></li>
+</ul>
+
+<h2 id="miscellaneous">Miscellaneous</h2>
+
+<ul>
+  <li><a href="https://frontier.frostsnap.com/">Frostsnap Multisig Hardware wallet</a></li>
+  <li><a href="https://bitcoinops.org/en/matrix/">Bitcoin Feature Matrix</a></li>
+</ul>
+
+<h3 id="delving-bitcoin">Delving Bitcoin</h3>
+
+<ul>
+  <li><a href="https://delvingbitcoin.org/t/addressing-community-concerns-and-objections-regarding-my-recent-proposal-to-relax-bitcoin-cores-standardness-limits-on-op-return-outputs/1697">Antoine Poinsot: Addressing community concerns regarding my proposal to Relax Bitcoin Core’s standardness limits on OP_RETURN outputs</a></li>
+</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[Session links (28.5. 20:30)]]></summary></entry><entry><title type="html">Online Socratic Seminar #10</title><link href="http://0.0.0.0:4000/2025/04/23/online-socratic-seminar-10.html" rel="alternate" type="text/html" title="Online Socratic Seminar #10" /><published>2025-04-23T00:00:00+02:00</published><updated>2025-04-23T00:00:00+02:00</updated><id>http://0.0.0.0:4000/2025/04/23/online-socratic-seminar-10</id><content type="html" xml:base="http://0.0.0.0:4000/2025/04/23/online-socratic-seminar-10.html"><![CDATA[<h2 id="session-links-234-2030">Session links (23.4. 20:30)</h2>
+
+<ul>
+  <li><a href="https://meet.jit.si/moderated/8258683a311677c4d07e7cc16ad5c2d817a285137af52fc0b447177b1faeae6b">Jitsi</a></li>
+</ul>
+
+<h2 id="securitycvesinfosecresearch">Security/CVEs/InfoSec/Research</h2>
+
+<ul>
+  <li><a href="https://b10c.me/blog/015-bitcoin-mining-centralization/">Bitcoin Mining Centralization</a></li>
+  <li><a href="https://blog.lopp.net/bitcoin-address-poisoning-attacks/">Address poisoning attacks</a></li>
+  <li><a href="https://eprint.iacr.org/2025/709.pdf">Wen et al.: Thunderbolt: A Formally Verified Protocol for Off-Chain Bitcoin Transfers</a></li>
+  <li><a href="https://rubin.io/bitcoin/2025/03/11/core-vuln-taproot-dos/">Taproot Denial of Service Bug</a></li>
+  <li><a href="https://github.com/dergoegge/fuzzamoto">Fuzzamoto: Holistic Fuzzing for Bitcoin Protocol Implementations</a></li>
+</ul>
+
+<h2 id="miscellaneous">Miscellaneous</h2>
+
+<ul>
+  <li><a href="https://bitcoincore.org/en/releases/29.0/">Bitcoin Core 29.0 released</a></li>
+  <li><a href="https://lightningdevkit.org/blog/announcing-vss/">LDK VSS</a></li>
+  <li><a href="https://www.reddit.com/r/Bitcoin/comments/1iulyhv/puzzle_67_is_taken/">Bitcoin Puzzle #67 solved</a></li>
+  <li><a href="https://blog.second.tech/try-ark-on-signet/">Try Ark on Signet</a></li>
+</ul>
+
+<h2 id="mailing-lists">Mailing Lists</h2>
+
+<h3 id="bitcoin-dev">bitcoin-dev</h3>
+
+<ul>
+  <li><a href="https://groups.google.com/g/bitcoindev/c/d6ZO7gXGYbQ/m/mJyek28lDAAJ?utm_medium=email&amp;utm_source=footer">Relax OP_RETURN standardness restrictions</a></li>
+  <li><a href="https://groups.google.com/g/bitcoindev/c/eothFkxAvK0/m/IZVGezcdDAAJ">DahLIAS: Discrete Logarithm-Based Interactive Aggregate Signatures</a></li>
+  <li><a href="https://mailing-list.bitcoindevs.xyz/bitcoindev/CADL_X_cF=UKVa7CitXReMq8nA_4RadCF==kU4YG+0GYN97P6hQ@mail.gmail.com/">Against Allowing Quantum Recovery of Bitcoin</a></li>
+  <li><a href="https://mailing-list.bitcoindevs.xyz/bitcoindev/CALkkCJY=dv6cZ_HoUNQybF4-byGOjME3Jt2DRr20yZqMmdJUnQ@mail.gmail.com/">Hashed keys are actually fully quantum secure</a></li>
+</ul>
+
+<h3 id="delving-bitcoin">Delving Bitcoin</h3>
+
+<ul>
+  <li><a href="https://delvingbitcoin.org/t/swiftsync-spesseding-up-ibd-with-pre-generated-hints-poc/1562">SwiftSync - Speeding up IBD with pre-generated hints</a></li>
+  <li><a href="https://delvingbitcoin.org/t/ctv-csfs-can-we-reach-consensus-on-a-first-step-towards-covenants/1509/7">CTV+CSFS: Can we reach consensus on a first step towards covenants?</a></li>
+</ul>
+
+<h2 id="pull-requests">Pull requests</h2>
+
+<h3 id="bips-bolts-and-proposals">BIPs, BOLTs and Proposals</h3>
+
+<ul>
+  <li><a href="https://github.com/bitcoin/bips/pull/1800/commits/b1a59cadb090abe32f4c4b0b1173a4c3fad5497f#diff-94fc40e0f29908c7a17eef2e018f2639f6910c595d94e96d16126dddcec1e421">BIP 54: Consensus Cleanup</a></li>
+  <li><a href="https://github.com/bitcoin/bips/pull/1670">BIP-360: QuBit - Pay to Quantum Resistant Hash</a></li>
+</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[Session links (23.4. 20:30)]]></summary></entry><entry><title type="html">Online Socratic Seminar #9</title><link href="http://0.0.0.0:4000/2025/03/26/online-socratic-seminar-9.html" rel="alternate" type="text/html" title="Online Socratic Seminar #9" /><published>2025-03-26T00:00:00+01:00</published><updated>2025-03-26T00:00:00+01:00</updated><id>http://0.0.0.0:4000/2025/03/26/online-socratic-seminar-9</id><content type="html" xml:base="http://0.0.0.0:4000/2025/03/26/online-socratic-seminar-9.html"><![CDATA[<h2 id="session-links-2603-2030">Session links (26.03. 20:30)</h2>
+
+<ul>
+  <li><a href="https://meet.jit.si/moderated/8258683a311677c4d07e7cc16ad5c2d817a285137af52fc0b447177b1faeae6b">Jitsi</a></li>
+  <li><a href="https://fountain.fm/show/ZRopbw0irxT5HgbS3XYq">fountain.fm</a></li>
+</ul>
+
+<h2 id="securitycvesinfosecresearch">Security/CVEs/InfoSec/Research</h2>
+
+<ul>
+  <li><a href="https://www.cnx-software.com/2025/03/01/tropic-square-tropic01-is-an-auditable-open-architecture-tamper-proof-risc-v-secure-element-se-for-iot-and-microcontrollers/">Tropic Square TROPIC01 auditable, open architecture, tamper-proof RISC-V secure element (SE)</a></li>
+  <li><a href="https://orange.surf/grid/">Orange Surf Grid view</a></li>
+  <li><a href="https://x.com/123456/status/1899503731701633133">Bitcoin Core DoS script</a></li>
+</ul>
+
+<h2 id="miscellaneous">Miscellaneous</h2>
+
+<ul>
+  <li><a href="https://www.whitehouse.gov/presidential-actions/2025/03/establishment-of-the-strategic-bitcoin-reserve-and-united-states-digital-asset-stockpile/">White House: Strategic Bitcoin Reserve and Digital Asset Stockpile</a></li>
+  <li><a href="https://blog.lopp.net/against-quantum-recovery-of-bitcoin/">Jameson Lopp: Against Allowing Quantum Recovery of Bitcoin</a></li>
+  <li><a href="https://github.com/DhananjayPurohit/ngx_l402">L402 Nginx Module</a></li>
+  <li><a href="https://opensats.org/blog/tenth-wave-of-bitcoin-grants">OpenSats: Tenths wave of Bitcoin grants</a></li>
+</ul>
+
+<h2 id="network-data">Network Data</h2>
+
+<ul>
+  <li><a href="https://delvingbitcoin.org/t/stats-on-orphanage-overflows/1421">Stats on orphanage overflows</a></li>
+  <li><a href="https://delvingbitcoin.org/t/bitcoin-node-p2p-traffic-analysis/1490">Bitcoin node P2P traffic analysis</a></li>
+</ul>
+
+<h2 id="mailing-lists">Mailing Lists</h2>
+
+<h3 id="delving-bitcoin">Delving Bitcoin</h3>
+
+<ul>
+  <li><a href="https://delvingbitcoin.org/t/an-exposition-of-pathfinding-strategies-within-lightning-network-clients/1500">Sindura Saraswathi: 
+An Exposition of Pathfinding Strategies Within Lightning Network Clients
+</a></li>
+</ul>
+
+<h2 id="pull-requests">Pull requests</h2>
+
+<h3 id="lnd">LND</h3>
+
+<ul>
+  <li><a href="https://morehouse.github.io/lightning/lnd-excessive-failback-exploit/">LND: Excessive Failback Exploit</a></li>
+</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[Session links (26.03. 20:30)]]></summary></entry><entry><title type="html">Online Socratic Seminar #8</title><link href="http://0.0.0.0:4000/2025/02/26/online-socratic-seminar-8.html" rel="alternate" type="text/html" title="Online Socratic Seminar #8" /><published>2025-02-26T00:00:00+01:00</published><updated>2025-02-26T00:00:00+01:00</updated><id>http://0.0.0.0:4000/2025/02/26/online-socratic-seminar-8</id><content type="html" xml:base="http://0.0.0.0:4000/2025/02/26/online-socratic-seminar-8.html"><![CDATA[<h2 id="session-links-262-2030">Session links (26.2. 20:30)</h2>
+
+<ul>
+  <li><a href="https://meet.jit.si/moderated/8258683a311677c4d07e7cc16ad5c2d817a285137af52fc0b447177b1faeae6b">Jitsi</a></li>
+</ul>
+
+<h2 id="securitycvesinfosecresearch">Security/CVEs/InfoSec/Research</h2>
+
+<ul>
+  <li><a href="https://github.com/lightningnetwork/lnd/releases/tag/v0.18.5-beta">Critical bug related to erroneous state transitions in LND, Upgrade to lnd v0.18.5</a></li>
+  <li><a href="https://www.nobsbitcoin.com/bitaxe-firmware-esp-miner-v2-5-0/">Bitaxe Firmware (ESP-Miner) v2.5.0: Critical Fix for CSRF Vulnerability</a></li>
+  <li><a href="https://github.com/mevpool/mevpool/blob/main/mevpool-marketplace.md">MEVpool: A Private Mempool Marketplace Standard</a></li>
+</ul>
+
+<h2 id="miscellaneous">Miscellaneous</h2>
+
+<ul>
+  <li><a href="https://www.heise.de/news/Groesster-Krypto-Coup-aller-Zeiten-Bybit-verliert-1-5-Milliarden-US-Dollar-10292118.html">Bybit Hack 1,5 Milliarden $ Crypto gestohlen</a></li>
+  <li><a href="https://cointelegraph.com/news/adam-back-evm-misdesign-root-cause-bybit-hack">Adam Back slams ‘EVM mis-design’ as root cause of Bybit Hack</a></li>
+  <li><a href="https://dailyhodl.com/2025/02/23/crypto-veteran-samson-mow-slams-ethereum-calls-for-chain-rollback-after-hackers-loot-1400000000-from-bybit/">Samson Mow calls for Ethereum chain rollback</a></li>
+  <li><a href="https://bitcoinops.org/de/newsletters/">Bitcoin Optech Newsletter jetzt auch auf Deutsch</a></li>
+  <li><a href="https://old.reddit.com/r/ledgerwallet/comments/1i588r3/play_doom_on_your_ledger_nano_s/">Doom ported to Ledger Nano S+</a></li>
+  <li><a href="https://github.com/brunoerg/mutation-core">Bitcoin Core Mutation testing</a></li>
+  <li><a href="https://adamjonas.com/bitcoin/coredev/retro/coredev-2024-retro/">Core dev reflections 2024-2025</a></li>
+  <li><a href="https://tether.io/news/tether-brings-usdt-to-bitcoins-lightning-network-ushering-in-a-new-era-of-unstoppable-technology/">Tether brings USDt to Lightning Network</a></li>
+  <li><a href="https://ticotimes.net/2025/02/02/el-salvador-abandons-bitcoin-as-legal-tender-after-failed-experiment">El Salvador abandons Bitcoin as legal tender</a></li>
+  <li><a href="https://x.com/anchorwatch/status/1876297172204888193">AnchorWatch Launch</a></li>
+  <li><a href="https://xcancel.com/citadelfoss/status/1877364560098652173">CoinSwap v0.1 Testnet4 launch</a></li>
+</ul>
+
+<h2 id="network-data">Network Data</h2>
+
+<ul>
+  <li><a href="https://b10c.me/observations/13-missing-sanctioned-transactions-2024-12/">Fifteen OFAC-sanctioned transactions missing from blocks</a></li>
+  <li><a href="https://research.mempool.space/block-size-report/">Mempool.space Block size report</a></li>
+</ul>
+
+<h2 id="europegermanyberlin">Europe/Germany/Berlin</h2>
+
+<ul>
+  <li><a href="https://www.reuters.com/technology/czech-central-bank-governor-present-plan-hold-reserves-bitcoin-ft-reports-2025-01-29/">Czech Central bank wants to hold Bitcoin as reserve</a></li>
+</ul>
+
+<h2 id="mailing-lists">Mailing Lists</h2>
+
+<h3 id="delving-bitcoin">Delving Bitcoin</h3>
+
+<ul>
+  <li><a href="https://delvingbitcoin.org/t/analyzing-mining-pool-behavior-to-address-bitcoin-cores-double-coinbase-reservation-issue/1351">Analyzing Mining Pool Behavior to Address Bitcoin Core’s Double Coinbase Reservation Issue</a></li>
+  <li><a href="https://delvingbitcoin.org/t/deterministic-tx-selection-for-censorship-resistance/842">Deterministic tx selection for censorship resistance</a></li>
+</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[Session links (26.2. 20:30)]]></summary></entry><entry><title type="html">Online Socratic Seminar #7</title><link href="http://0.0.0.0:4000/2025/01/22/online-socratic-seminar-7.html" rel="alternate" type="text/html" title="Online Socratic Seminar #7" /><published>2025-01-22T00:00:00+01:00</published><updated>2025-01-22T00:00:00+01:00</updated><id>http://0.0.0.0:4000/2025/01/22/online-socratic-seminar-7</id><content type="html" xml:base="http://0.0.0.0:4000/2025/01/22/online-socratic-seminar-7.html"><![CDATA[<h2 id="session-links-2201-2030">Session links (22.01. 20:30)</h2>
+
+<ul>
+  <li><a href="https://meet.jit.si/moderated/8258683a311677c4d07e7cc16ad5c2d817a285137af52fc0b447177b1faeae6b">Jitsi</a></li>
+  <li><a href="https://fountain.fm/show/ZRopbw0irxT5HgbS3XYq">fountain.fm</a></li>
+</ul>
+
+<h2 id="securitycvesinfosecresearch">Security/CVEs/InfoSec/Research</h2>
+
+<ul>
+  <li><a href="https://groups.google.com/g/bitcoindev/c/CbfbEGozG7c/m/w2B-RRdUCQAJ">Reiterating centralized coinjoin (Wasabi &amp; Samourai) deanonymization attacks</a></li>
+  <li><a href="https://bitcoinmagazine.com/technical/wabisabi-deanonymization-vulnerability-disclosed">Wabisabi Deanonymization Vulnerability “Disclosed”</a></li>
+  <li><a href="https://b10c.me/observations/13-missing-sanctioned-transactions-2024-12/">Fifteen OFAC-sanctioned transactions missing from blocks</a></li>
+</ul>
+
+<h2 id="miscellaneous">Miscellaneous</h2>
+
+<ul>
+  <li><a href="https://en.bitcoin.it/wiki/Covenants_support">Poll of opinions about covenant proposals</a></li>
+  <li><a href="https://hrf.org/program/financial-freedom/finney-prize/">Finney Prize for Greg Maxwell and Pieter Wuille</a></li>
+</ul>
+
+<h2 id="europegermanyberlin">Europe/Germany/Berlin</h2>
+
+<ul>
+  <li><a href="https://crm.fdpbt.de/termin/5-blockchain-roundtable-bitcoin-das-bessere-geld">5. Blockchain-Roundtable: „Bitcoin - Das bessere Geld?“</a></li>
+  <li><a href="https://x.com/paddi_hansen/status/1874770019370078649">MiCA is officially live!</a></li>
+</ul>
+
+<h1 id="bitcoin-education">Bitcoin Education</h1>
+
+<ul>
+  <li><a href="https://alexzaitsev.substack.com/p/boss-bitcoin-open-source-software">BOSS - Bitcoin Open Source Software 2025 recap</a></li>
+</ul>
+
+<h2 id="mailing-lists">Mailing Lists</h2>
+
+<h3 id="bitcoin-dev">bitcoin-dev</h3>
+
+<ul>
+  <li><a href="https://groups.google.com/g/bitcoindev/c/8O857bRSVV8/m/4cM-7pf4AgAJ">Quantum computer upgrade path</a></li>
+</ul>
+
+<h2 id="pull-requests">Pull requests</h2>
+
+<h3 id="bips-bolts-and-proposals">BIPs, BOLTs and Proposals</h3>
+
+<ul>
+  <li><a href="https://groups.google.com/g/bitcoindev/c/YwF-djZi1Bo">Redefinition of the Bitcoin Unit to the Base Denomination</a></li>
+</ul>
+
+<h3 id="bitcoin-core">Bitcoin Core</h3>
+
+<ul>
+  <li><a href="https://github.com/bitcoin/bitcoin/blob/v28.1/doc/release-notes.md">Bitcoin Core 28.1 </a></li>
+</ul>
+
+<h3 id="lnd">LND</h3>
+
+<ul>
+  <li><a href="https://github.com/lightningdevkit/rust-lightning/releases/tag/v0.1">The LDK 0.1 release represents an important milestone for the LDK project</a></li>
+</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[Session links (22.01. 20:30)]]></summary></entry><entry><title type="html">Online Socratic Seminar #6</title><link href="http://0.0.0.0:4000/2024/11/27/online-socratic-seminar-6.html" rel="alternate" type="text/html" title="Online Socratic Seminar #6" /><published>2024-11-27T00:00:00+01:00</published><updated>2024-11-27T00:00:00+01:00</updated><id>http://0.0.0.0:4000/2024/11/27/online-socratic-seminar-6</id><content type="html" xml:base="http://0.0.0.0:4000/2024/11/27/online-socratic-seminar-6.html"><![CDATA[<h2 id="session-links-2711-2030">Session links (27.11. 20:30)</h2>
 
 <ul>
   <li><a href="https://meet.jit.si/moderated/8258683a311677c4d07e7cc16ad5c2d817a285137af52fc0b447177b1faeae6b">Jitsi</a></li>
@@ -48,7 +514,7 @@
 
 <ul>
   <li><a href="https://delvingbitcoin.org/t/mutation-core-a-mutation-testing-tool-for-bitcoin-core/111">Mutation-core: A mutation testing tool for Bitcoin Core</a></li>
-</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[Session links (27.11. 20:30)]]></summary></entry><entry><title type="html">Online Socratic Seminar #5</title><link href="http://localhost:4000/2024/10/23/online-socratic-seminar-5.html" rel="alternate" type="text/html" title="Online Socratic Seminar #5" /><published>2024-10-23T00:00:00+02:00</published><updated>2024-10-23T00:00:00+02:00</updated><id>http://localhost:4000/2024/10/23/online-socratic-seminar-5</id><content type="html" xml:base="http://localhost:4000/2024/10/23/online-socratic-seminar-5.html"><![CDATA[<h2 id="session-links-2310-2030">Session links (23.10. 20:30)</h2>
+</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[Session links (27.11. 20:30)]]></summary></entry><entry><title type="html">Online Socratic Seminar #5</title><link href="http://0.0.0.0:4000/2024/10/23/online-socratic-seminar-5.html" rel="alternate" type="text/html" title="Online Socratic Seminar #5" /><published>2024-10-23T00:00:00+02:00</published><updated>2024-10-23T00:00:00+02:00</updated><id>http://0.0.0.0:4000/2024/10/23/online-socratic-seminar-5</id><content type="html" xml:base="http://0.0.0.0:4000/2024/10/23/online-socratic-seminar-5.html"><![CDATA[<h2 id="session-links-2310-2030">Session links (23.10. 20:30)</h2>
 
 <ul>
   <li><a href="https://meet.jit.si/moderated/8258683a311677c4d07e7cc16ad5c2d817a285137af52fc0b447177b1faeae6b">Jitsi</a></li>
@@ -107,206 +573,4 @@
 <ul>
   <li><a href="https://delvingbitcoin.org/t/superscalar-laddered-timeout-tree-structured-decker-wattenhofer-factories/1143">SuperScalar: Laddered Timeout-Tree-Structured Decker-Wattenhofer Factories</a></li>
   <li><a href="https://delvingbitcoin.org/t/ln-summit-2024-notes-summary-commentary/1198">LN Summit 2024 Notes &amp; Summary/Commentary</a></li>
-</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[Session links (23.10. 20:30)]]></summary></entry><entry><title type="html">Online Socratic Seminar #4</title><link href="http://localhost:4000/jekyll/update/2024/09/22/online-socratic-seminar-4.html" rel="alternate" type="text/html" title="Online Socratic Seminar #4" /><published>2024-09-22T10:30:00+02:00</published><updated>2024-09-22T10:30:00+02:00</updated><id>http://localhost:4000/jekyll/update/2024/09/22/online-socratic-seminar-4</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2024/09/22/online-socratic-seminar-4.html"><![CDATA[<h2 id="session-links-259-2030">Session links (25.9. 20:30)</h2>
-
-<ul>
-  <li><a href="https://meet.jit.si/moderated/8258683a311677c4d07e7cc16ad5c2d817a285137af52fc0b447177b1faeae6b">Jitsi</a></li>
-  <li><a href="https://fountain.fm/show/ZRopbw0irxT5HgbS3XYq">fountain.fm</a></li>
-</ul>
-
-<h2 id="securitycvesinfosecresearch">Security/CVEs/InfoSec/Research</h2>
-
-<ul>
-  <li><a href="https://gist.github.com/RobinLinus/fdee133af13948b0e617f9ef4f8b8752">Prevent the CATastrophe</a></li>
-</ul>
-
-<h2 id="miscellaneous">Miscellaneous</h2>
-
-<ul>
-  <li><a href="https://github.com/lava-xyz/loans-paper">Lava Loans: Trust-minimized, Bitcoin-Secured Loans</a> (https://www.lava.xyz/)</li>
-  <li><a href="https://www.tomshardware.com/tech-industry/cryptocurrency/researchers-cracked-open-dollar16-million-bitcoin-wallet-after-20-character-password-was-lost-well-worth-the-six-months-of-effort">Researchers cracked open $1.6 million wallet after password was lost</a></li>
-  <li><a href="https://github.com/bisq-network/bisq2/releases/tag/v2.1.0">Bisq adds Lightning support</a></li>
-  <li><a href="https://devpost.com/software/el-tor">High bandwidth Tor network. Incentivized by the Bitcoin Lightning Network</a></li>
-  <li><a href="https://blog.second.tech/demoing-the-first-ark-transactions-on-bitcoin-mainnet/">Demoing the first Ark transactions on bitcoin mainnet</a></li>
-</ul>
-
-<h2 id="network-data">Network Data</h2>
-
-<ul>
-  <li><a href="https://x.com/mattahlborg/status/1828436316930912364">Bitrefill Payment statistics</a></li>
-  <li><a href="https://b10c.me/observations/12-template-similarity/">Block Template Similarities between Mining Pools</a></li>
-</ul>
-
-<h2 id="mailing-lists">Mailing Lists</h2>
-
-<h3 id="delving-bitcoin">Delving Bitcoin</h3>
-
-<ul>
-  <li><a href="https://delvingbitcoin.org/t/hardcoded-seeds-dns-seeds-and-darknet-nodes/1123">Hardcoded seeds, DNS seeds and Darknet nodes</a></li>
-  <li><a href="https://delvingbitcoin.org/t/proving-utxo-set-inclusion-in-zero-knowledge/1142">Proving UTXO set inclusion in zero-knowledge</a></li>
-  <li><a href="https://delvingbitcoin.org/t/privately-sending-payments-while-offline-with-bolt12/1134">Privately sending payments while offline with BOLT12</a></li>
-</ul>
-
-<h2 id="pull-requests">Pull requests</h2>
-
-<h3 id="bitcoin-core">Bitcoin Core</h3>
-
-<ul>
-  <li><a href="https://github.com/bitcoin-core/bitcoin-devwiki/wiki/28.0-Release-Candidate-Testing-Guide">
-Testing Guide: Bitcoin Core 28.0 Release Candidate
-</a></li>
-</ul>
-
-<h3 id="core-lightning">Core Lightning</h3>
-
-<ul>
-  <li><a href="https://github.com/ElementsProject/lightning/releases/tag/v24.08.1">This hotfix release fixes few crash issues and some other bugs</a></li>
-</ul>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[Session links (25.9. 20:30)]]></summary></entry><entry><title type="html">Online Socratic Seminar #3</title><link href="http://localhost:4000/2024/08/28/online-socratic-seminar-3.html" rel="alternate" type="text/html" title="Online Socratic Seminar #3" /><published>2024-08-28T00:00:00+02:00</published><updated>2024-08-28T00:00:00+02:00</updated><id>http://localhost:4000/2024/08/28/online-socratic-seminar-3</id><content type="html" xml:base="http://localhost:4000/2024/08/28/online-socratic-seminar-3.html"><![CDATA[<h2 id="session-links-288-2030">Session links (28.8. 20:30)</h2>
-
-<ul>
-  <li><a href="https://meet.jit.si/moderated/8258683a311677c4d07e7cc16ad5c2d817a285137af52fc0b447177b1faeae6b">Jitsi</a></li>
-  <li><a href="https://serve.podhome.fm/episodepage/bitcoin-socratic-seminar/3">Podcast Player</a></li>
-</ul>
-
-<h2 id="securitycvesinfosecresearch">Security/CVEs/InfoSec/Research</h2>
-
-<ul>
-  <li><a href="https://darkskippy.com/">Dark Skippy: a method for a malicious signing device to leak secret keys</a></li>
-  <li><a href="https://bitcoinmagazine.com/business/university-of-wyoming-launches-first-bitcoin-research-institute">University of Wyoming launches Bitcoin research institute</a></li>
-  <li><a href="https://bitbox.swiss/blog/anti-klepto-explained-protection-against-leaking-private-keys/">Anti-klepto protocol against malicious seed leaking via transaction signatures</a></li>
-  <li><a href="https://www.usenix.org/system/files/woot24-scott.pdf">Engineering a backdoored bitcoin wallet</a></li>
-</ul>
-
-<h2 id="miscellaneous">Miscellaneous</h2>
-
-<ul>
-  <li><a href="https://lightning.engineering/posts/2024-07-23-taproot-assets-LN/">Taproot Assets Mainnet Launch</a></li>
-  <li><a href="https://x.com/davidlripley/status/1815880303254323603">Mt Gox coins finally distributed</a></li>
-  <li><a href="https://blog.lopp.net/problems-with-coinbase-withdrawal-fees/?ref=cypherpunk-cogitations-newsletter">Problems with Coinbase Withdrawal Fees</a></li>
-  <li><a href="https://x.com/mempool/status/1828057401968533629">The Mempool Open Source Project® v3.0.0 is here</a></li>
-</ul>
-
-<h2 id="network-data">Network Data</h2>
-
-<ul>
-  <li><a href="https://b10c.me/blog/014-mining-pool-behavior-during-forks/">Mining Pool Behavior during Forks</a></li>
-</ul>
-
-<h2 id="europegermanyberlin">Europe/Germany/Berlin</h2>
-
-<ul>
-  <li><a href="https://www.bafin.de/SharedDocs/Veroeffentlichungen/DE/Pressemitteilung/2024/pm_2024_08_20_Krypto_Automaten.html">Bafin Razzia gegen Bitcoinautomaten</a></li>
-</ul>
-
-<h3 id="bitcoin-core">Bitcoin Core</h3>
-
-<ul>
-  <li><a href="https://github.com/bitcoin/bitcoin/pull/29775">Testnet4 including PoW difficulty adjustment fix</a></li>
-  <li><a href="https://github.com/bitcoin/bitcoin/pull/28553">assumeutxo params mainnet</a></li>
-  <li><a href="https://github.com/bitcoin/bitcoin/pull/30246">asmap-tool - Compare ASMaps with respect to specific addresses</a></li>
-</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[Session links (28.8. 20:30)]]></summary></entry><entry><title type="html">Online Socratic Seminar #2</title><link href="http://localhost:4000/jekyll/update/2024/07/24/online-socratic-seminar-2.html" rel="alternate" type="text/html" title="Online Socratic Seminar #2" /><published>2024-07-24T10:30:00+02:00</published><updated>2024-07-24T10:30:00+02:00</updated><id>http://localhost:4000/jekyll/update/2024/07/24/online-socratic-seminar-2</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2024/07/24/online-socratic-seminar-2.html"><![CDATA[<h2 id="session-links-247-2030">Session links (24.7. 20:30)</h2>
-
-<ul>
-  <li><a href="https://meet.jit.si/moderated/8258683a311677c4d07e7cc16ad5c2d817a285137af52fc0b447177b1faeae6b">Jitsi</a></li>
-  <li><a href="https://fountain.fm/live/mPxR2ogzVvIbqkiYVSpM">fountain.fm</a></li>
-</ul>
-
-<h2 id="securitycvesinfosecresearch">Security/CVEs/InfoSec/Research</h2>
-
-<ul>
-  <li><a href="https://github.com/WalletWasabi/WalletWasabi/discussions/13249">Wasabi Wallet Security Incident Disclosure</a></li>
-</ul>
-
-<h2 id="miscellaneous">Miscellaneous</h2>
-
-<ul>
-  <li><a href="https://www.mining.build/blog/latest-updates-3nm-system/">3nm chip headed to the foundry</a></li>
-  <li><a href="https://x.com/CryptoHayes/status/1813474055879635288">Maelstrom fund: new core dev grant programme</a></li>
-  <li><a href="https://coracle.social/notes/nevent1qyghwumn8ghj7vf5xqhxvdm69e5k7tcpzdmhxue69uhhqatjwpkx2urpvuhx2ue0qyfhwumn8ghj7un9d3shjtnxxaazu6t09uq3wamnwvaz7tmjv4kxz7fwwpexjmtpdshxuet59uq32amnwvaz7tmjv4kxz7fwv4uxjapwwp6kytcpz4mhxue69uhhyetvv9ujuerpd46hxtnfduhszxnhwden5te0wpuhyctdd9jzuenfv96x5ctx9e3k7mf0qyf8wumn8ghj7un9d3shjtn5dahkcue0qy88wumn8ghj7mn0wvhxcmmv9uqzpezqcups6kj7jucl7vhzxm5knd97fjw8dlzs6azy8jel0kpmru0q43txax">Nutsack v0.1</a></li>
-  <li><a href="https://github.com/BlueWallet/BlueWallet/releases/tag/v6.6.7">BlueWallet adds silent payment send support</a></li>
-  <li><a href="https://www.bailii.org/ew/cases/EWHC/Ch/2024/1809.html">COPA vs CSW – Injunctions Published</a></li>
-  <li><a href="https://bitcoinsearch.xyz/">Bitcoinsearch</a></li>
-  <li><a href="https://proton.me/blog/proton-wallet-launch">Introducing Proton Wallet</a></li>
-  <li><a href="https://x.com/BitBoxSwiss/status/1816103516059971874?t=PUiDVxF48mUyz2IbfWkKzg&amp;s=19">Silent Payment support on BitBox</a></li>
-</ul>
-
-<h2 id="europegermanyberlin">Europe/Germany/Berlin</h2>
-
-<ul>
-  <li><a href="https://www.medienservice.sachsen.de/medien/news/1077662">Notveräußerung von fast 50.000 Bitcoins abgeschlossen</a></li>
-  <li><a href="https://notmadeingermany.com/">Wieviel Wert ging durch den Bitcoinverkauf schon verloren?</a></li>
-</ul>
-
-<h2 id="mailing-lists">Mailing Lists</h2>
-
-<h3 id="bitcoin-dev">bitcoin-dev</h3>
-
-<ul>
-  <li><a href="https://mailing-list.bitcoindevs.xyz/bitcoindev/8768422323203aa3a8b280940abd776526fab12e.camel@timruffing.de/T/#u">Jonas Nick, Tim Ruffing: ChillDKG: Distributed key generation protocol for FROST</a></li>
-</ul>
-
-<h3 id="delving-bitcoin">Delving Bitcoin</h3>
-
-<ul>
-  <li><a href="https://delvingbitcoin.org/t/introduction-to-cluster-linearization/1032">Peter Wuille: Introduction to cluster linearization</a></li>
-</ul>
-
-<h3 id="bips-bolts-and-proposals">BIPs, BOLTs and Proposals</h3>
-
-<ul>
-  <li><a href="https://github.com/bitcoin/bips/blob/master/bip-0353.mediawiki">BIP353: DNS Payment Instructions (Bitcoin usernames)</a></li>
-  <li><a href="https://github.com/ACINQ/phoenix/releases/tag/android-v2.3.3">Phoenix adds Bolt12 + BIP353</a></li>
-  <li><a href="https://github.com/ZeusLN/zeus/releases/tag/v0.8.5">ZEUS adds Bolt12 + BIP353</a></li>
-  <li><a href="https://sethforprivacy.com/guides/setting-up-a-bitcoin-username/">Seth for Privacy: Setting up a bitcoin username</a></li>
-  <li><a href="https://satsto.me/">Sats to me (BIP353 Resolver)</a></li>
-</ul>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[Session links (24.7. 20:30)]]></summary></entry><entry><title type="html">Online Socratic Seminar #1</title><link href="http://localhost:4000/2024/06/26/online-socratic-seminar-1.html" rel="alternate" type="text/html" title="Online Socratic Seminar #1" /><published>2024-06-26T00:00:00+02:00</published><updated>2024-06-26T00:00:00+02:00</updated><id>http://localhost:4000/2024/06/26/online-socratic-seminar-1</id><content type="html" xml:base="http://localhost:4000/2024/06/26/online-socratic-seminar-1.html"><![CDATA[<h2 id="session-links-266-2030">Session links (26.6. 20:30)</h2>
-
-<ul>
-  <li><a href="https://meet.jit.si/moderated/8258683a311677c4d07e7cc16ad5c2d817a285137af52fc0b447177b1faeae6b">Jitsi</a></li>
-  <li><a href="https://fountain.fm/live/ElwnS1CxUZlwUiJBHdsh">fountain.fm</a></li>
-</ul>
-
-<h2 id="securitycvesinfosecresearch">Security/CVEs/InfoSec/Research</h2>
-
-<ul>
-  <li><a href="https://eprint.iacr.org/2022/1676.pdf">Concurrently secure blind Schnorr signatures</a></li>
-  <li><a href="https://morehouse.github.io/lightning/lnd-onion-bomb/">LND vulnerability disclosed: DoS Onion Bomb</a></li>
-  <li><a href="https://github.com/cryptoquick/bips/blob/p2qrh/bip-p2qrh.mediawiki">QuBit - Quantum Resistant Addresses</a></li>
-</ul>
-
-<h2 id="miscellaneous">Miscellaneous</h2>
-
-<ul>
-  <li><a href="https://stratum.work/">Stratum.work</a></li>
-  <li><a href="https://brqgoo.medium.com/introducing-brollups-18ec4081f6e7">Introducing Brollups</a></li>
-  <li><a href="https://cisaresearch.org/">CISA Research</a></li>
-  <li><a href="https://joinstr.xyz/">joinstr - coinjoin implementation using nostr</a></li>
-  <li><a href="https://blog.wasabiwallet.io/wasabi-wallet-2-0-8-release-post/?ref=nobsbitcoin.com">Wasabi Wallet 2.0.8 with custom coordinator</a></li>
-  <li><a href="https://gist.github.com/darosior/eb71638f20968f0dc896c4261a127be6">Bitcoin Core vulnerability disclosure policy discussions report</a></li>
-  <li><a href="https://blog.lopp.net/effects-dbcache-size-bitcoin-node-sync-speed/?ref=cypherpunk-cogitations-newsletter">Effects of DBcache Size on Bitcoin Node Sync Speed</a></li>
-  <li><a href="https://www.blocktrainer.de/blog/mtgox-startet-bitcoin-rueckzahlungen">Mt. Gox startet Bitcoin-Rückzahlungen</a></li>
-  <li><a href="https://bitcoinmagazine.com/technical/bitcoin-lightning-alliance-to-accelerate-adoption-using-new-asset-protocol">BITCOIN LIGHTNING ALLIANCE TO ACCELERATE ADOPTION USING NEW ASSET PROTOCOL</a></li>
-  <li><a href="https://delvingbitcoin.org/t/silent-payments-light-client-protocol/891">Silent Payments Light Client</a></li>
-</ul>
-
-<h2 id="europegermanyberlin">Europe/Germany/Berlin</h2>
-
-<ul>
-  <li><a href="https://www.spiegel.de/netzwelt/web/bitcoin-sachsen-sitzt-auf-digitalwaehrung-im-milliardenwert-macht-es-sie-jetzt-zu-geld-a-b8aa866f-70b4-492d-9f0a-7af76aeb3701">Was macht Sachsen mit seinen Bitcoins im Milliardenwert?</a></li>
-</ul>
-
-<h2 id="mailing-lists">Mailing Lists</h2>
-
-<h3 id="bitcoin-dev">bitcoin-dev</h3>
-
-<ul>
-  <li><a href="https://mailing-list.bitcoindevs.xyz/bitcoindev/a6e3VPsXJf9p3gt_FmNF_Up-wrFuNMKTN30-xCSDHBKXzXnSpVflIZIj2NQ8Wos4PhQCzI2mWEMvIms_FAEs7rQdL15MpC_Phmu_fnR9iTg=@protonmail.com/">Testnet4 BIP draft</a></li>
-  <li><a href="https://mailing-list.bitcoindevs.xyz/bitcoindev/d5f47120-3397-4f56-93ca-dd310d845f3cn@googlegroups.com/T/#u">Utreexod beta release</a></li>
-</ul>
-
-<h3 id="delving-bitcoin">Delving Bitcoin</h3>
-
-<ul>
-  <li><a href="https://delvingbitcoin.org/t/proposed-risk-framework-for-bitcoin-l2s-and-sidechains/933">Risk framework for Bitcoin L2s and Sidechains</a></li>
-  <li><a href="https://rubin.io/public/pdfs/fedcov.pdf">FE’d Up Covenants</a></li>
-</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[Session links (26.6. 20:30)]]></summary></entry></feed>
+</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[Session links (23.10. 20:30)]]></summary></entry></feed>

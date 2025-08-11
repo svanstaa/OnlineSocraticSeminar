@@ -1,0 +1,19 @@
+current directory: /home/svanstaa/repos/OnlineSocraticSeminar/vendor/bundle/ruby/3.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+/usr/bin/ruby3.3 -I/usr/lib/ruby/vendor_ruby extconf.rb
+creating Makefile
+
+current directory: /home/svanstaa/repos/OnlineSocraticSeminar/vendor/bundle/ruby/3.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20250810-173143-vczsfh sitelibdir\=./.gem.20250810-173143-vczsfh clean
+
+current directory: /home/svanstaa/repos/OnlineSocraticSeminar/vendor/bundle/ruby/3.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20250810-173143-vczsfh sitelibdir\=./.gem.20250810-173143-vczsfh
+compiling mapper.cpp
+compiling rubymain.cpp
+linking shared-object fastfilereaderext.so
+
+current directory: /home/svanstaa/repos/OnlineSocraticSeminar/vendor/bundle/ruby/3.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20250810-173143-vczsfh sitelibdir\=./.gem.20250810-173143-vczsfh install
+/usr/bin/install -c -m 0755 fastfilereaderext.so ./.gem.20250810-173143-vczsfh
+
+current directory: /home/svanstaa/repos/OnlineSocraticSeminar/vendor/bundle/ruby/3.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20250810-173143-vczsfh sitelibdir\=./.gem.20250810-173143-vczsfh clean

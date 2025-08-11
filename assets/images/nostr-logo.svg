@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="24" height="24">
+  <!-- Ostrich body (simplified) -->
+  <ellipse cx="32" cy="45" rx="12" ry="15" fill="#8B4513" stroke="#654321" stroke-width="1"/>
+  
+  <!-- Ostrich neck -->
+  <ellipse cx="32" cy="25" rx="4" ry="12" fill="#D2B48C" stroke="#B8860B" stroke-width="1"/>
+  
+  <!-- Ostrich head -->
+  <ellipse cx="32" cy="15" rx="6" ry="8" fill="#DEB887" stroke="#CD853F" stroke-width="1"/>
+  
+  <!-- Beak -->
+  <polygon points="26,15 20,17 26,19" fill="#FFA500" stroke="#FF8C00" stroke-width="1"/>
+  
+  <!-- Eye -->
+  <circle cx="30" cy="13" r="1.5" fill="#000"/>
+  
+  <!-- Legs -->
+  <line x1="26" y1="58" x2="26" y2="62" stroke="#8B4513" stroke-width="2"/>
+  <line x1="38" y1="58" x2="38" y2="62" stroke="#8B4513" stroke-width="2"/>
+  
+  <!-- Wing -->
+  <ellipse cx="38" cy="40" rx="6" ry="10" fill="#A0522D" stroke="#8B4513" stroke-width="1"/>
+  
+  <!-- Feather details -->
+  <path d="M35 35 Q40 38 35 45" stroke="#654321" stroke-width="1" fill="none"/>
+  <path d="M37 37 Q42 40 37 47" stroke="#654321" stroke-width="1" fill="none"/>
+</svg>

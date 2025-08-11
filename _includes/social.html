@@ -1,0 +1,18 @@
+<ul class="social-media-list">
+  {%- if site.twitter_username -%}
+  <li>
+    <a href="https://twitter.com/{{ site.twitter_username | cgi_escape | escape }}">
+      <img src="{{ '/assets/images/x-logo.jpg' | relative_url }}" alt="X" class="x-icon">
+      <span class="username">{{ site.twitter_username }}</span>
+    </a>
+  </li>
+  {%- endif -%}
+  
+  <!-- Nostr Link -->
+  <li>
+    <a href="https://njump.me/nprofile1qqsq0jq9srfkyylzd6d83lhs26p7hsezu0m2xhzxep0sf34yu338hjcpz3mhxue69uhhyetvv9ujuerpd46hxtnfduqs6amnwvaz7tmwdaejumr0ds58gmep" target="_blank" rel="noopener noreferrer">
+      <img src="{{ '/assets/images/nostr-logo.png' | relative_url }}" alt="Nostr" class="nostr-icon">
+      <span class="username">Nostr</span>
+    </a>
+  </li>
+</ul>

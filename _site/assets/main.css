@@ -1,3 +1,4 @@
+@charset "UTF-8";
 /** Reset some basic elements */
 body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, dl, dd, ol, ul, figure { margin: 0; padding: 0; }
 
@@ -194,3 +195,84 @@ table td { border: 1px solid #e8e8e8; }
 .highlight .vg { color: #008080; }
 .highlight .vi { color: #008080; }
 .highlight .il { color: #099; }
+
+/* Bitcoin Socratic Seminar Custom Styles */
+/* Color Variables */
+:root { --bitcoin-orange: #F7931A; --bitcoin-orange-dark: #E8820E; --bitcoin-orange-light: #FFA733; --dark-gray: #2C2C2C; --medium-gray: #4A4A4A; --light-gray: #F8F9FA; --text-dark: #333333; --text-light: #666666; --border-color: #E1E5E9; --shadow-light: rgba(0, 0, 0, 0.1); --shadow-medium: rgba(0, 0, 0, 0.15); }
+
+/* Typography Improvements */
+body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; line-height: 1.6; color: var(--text-dark); background-color: #ffffff; }
+
+/* Header Styling */
+.site-header { background: linear-gradient(135deg, var(--dark-gray) 0%, var(--medium-gray) 100%); border-bottom: 3px solid var(--bitcoin-orange); box-shadow: 0 2px 10px var(--shadow-light); }
+.site-header .wrapper { max-width: 1200px; }
+.site-header .site-title { color: white !important; font-weight: 700; font-size: 1.8rem; text-decoration: none !important; display: flex; align-items: center; }
+.site-header .site-title .bitcoin-logo { width: 2.5rem; height: 2.5rem; margin-right: 1rem; filter: drop-shadow(0 2px 4px rgba(0, 0, 0, 0.3)); }
+.site-header .site-title:hover { color: var(--bitcoin-orange-light) !important; }
+.site-header .site-title:hover .bitcoin-logo { transform: scale(1.05); }
+.site-header .site-nav .page-link { color: white !important; font-weight: 500; }
+.site-header .site-nav .page-link:hover { color: var(--bitcoin-orange-light) !important; text-decoration: none; }
+
+/* Main Content Area */
+.page-content { background: linear-gradient(135deg, var(--light-gray) 0%, #ffffff 100%); min-height: calc(100vh - 200px); padding-top: 2rem; }
+.page-content .wrapper { max-width: 1200px; background-color: white; margin: 0 auto 2rem auto; padding: 2.5rem; border-radius: 16px; box-shadow: 0 8px 32px var(--shadow-light); border: 1px solid var(--border-color); position: relative; }
+.page-content .wrapper::before { content: ''; position: absolute; top: 0; left: 0; right: 0; height: 4px; background: linear-gradient(90deg, var(--bitcoin-orange), var(--bitcoin-orange-light)); border-radius: 16px 16px 0 0; }
+
+/* Home Page Styling */
+.home .post-list-heading { color: var(--dark-gray); font-size: 2rem; font-weight: 700; margin-bottom: 1.5rem; padding-bottom: 0.5rem; border-bottom: 3px solid var(--bitcoin-orange); display: inline-block; }
+.home .post-list { list-style: none; margin-left: 0; }
+.home .post-list li { background: linear-gradient(135deg, #ffffff 0%, #fafbfc 100%); margin-bottom: 1.2rem; padding: 1.8rem; border-radius: 12px; border-left: 5px solid var(--bitcoin-orange); box-shadow: 0 4px 16px var(--shadow-light); border: 1px solid rgba(247, 147, 26, 0.1); position: relative; }
+.home .post-list li::after { content: ''; position: absolute; top: 1rem; right: 1rem; width: 8px; height: 8px; background: var(--bitcoin-orange); border-radius: 50%; opacity: 0.6; }
+.home .post-list li span { color: var(--text-light); font-size: 0.85rem; font-weight: 600; background: linear-gradient(135deg, var(--bitcoin-orange-light), var(--bitcoin-orange)); color: white; padding: 0.4rem 1rem; border-radius: 25px; margin-right: 1.2rem; display: inline-block; box-shadow: 0 2px 6px rgba(247, 147, 26, 0.3); text-transform: uppercase; letter-spacing: 0.5px; font-size: 0.8rem; }
+.home .post-list li a { color: var(--text-dark); font-weight: 600; font-size: 1.1rem; text-decoration: none; }
+.home .post-list li a:hover { color: var(--bitcoin-orange-dark); text-decoration: underline; }
+
+/* Post Content Styling */
+.post .post-header { margin-bottom: 2rem; padding-bottom: 1rem; border-bottom: 2px solid var(--border-color); }
+.post .post-header .post-title { color: var(--dark-gray); font-size: 2.5rem; font-weight: 700; margin-bottom: 0.5rem; }
+.post .post-header .post-meta { color: var(--text-light); font-size: 1rem; }
+.post .post-content h2 { color: var(--dark-gray); font-size: 1.8rem; font-weight: 600; margin: 2rem 0 1rem 0; padding-bottom: 0.5rem; border-bottom: 2px solid var(--bitcoin-orange); display: inline-block; }
+.post .post-content h3 { color: var(--medium-gray); font-size: 1.4rem; font-weight: 600; margin: 1.5rem 0 0.8rem 0; }
+.post .post-content ul li { margin-bottom: 0.5rem; }
+.post .post-content ul li a { color: var(--bitcoin-orange-dark); text-decoration: none; font-weight: 500; }
+.post .post-content ul li a:hover { color: var(--bitcoin-orange); text-decoration: underline; }
+
+/* Session Links Styling */
+.post-content h2:first-of-type + ul { background: linear-gradient(135deg, var(--bitcoin-orange-light), var(--bitcoin-orange)); padding: 2rem; border-radius: 12px; margin: 1.5rem 0 2.5rem 0; box-shadow: 0 6px 20px rgba(247, 147, 26, 0.3); position: relative; }
+.post-content h2:first-of-type + ul::before { content: '🔗'; position: absolute; top: 1rem; right: 1.5rem; font-size: 1.2rem; opacity: 0.7; }
+.post-content h2:first-of-type + ul li { margin-bottom: 1rem; }
+.post-content h2:first-of-type + ul li:last-child { margin-bottom: 0; }
+.post-content h2:first-of-type + ul li a { color: white !important; font-weight: 600; font-size: 1.15rem; text-decoration: none; display: inline-flex; align-items: center; }
+.post-content h2:first-of-type + ul li a:before { content: '▶'; margin-right: 0.8rem; font-size: 0.8rem; }
+.post-content h2:first-of-type + ul li a:hover { text-decoration: underline; text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.3); }
+
+/* Footer Styling */
+.site-footer { background: var(--dark-gray); color: white; border-top: 3px solid var(--bitcoin-orange); }
+.site-footer .footer-heading { color: var(--bitcoin-orange-light); }
+.site-footer a { color: var(--bitcoin-orange-light); }
+.site-footer a:hover { color: white; }
+.site-footer .social-media-list { display: flex; flex-direction: row; gap: 2rem; list-style: none; margin: 0; padding: 0; }
+.site-footer .social-media-list li { display: flex; align-items: center; }
+.site-footer .social-media-list li a { display: flex; align-items: center; text-decoration: none; color: var(--bitcoin-orange-light); }
+.site-footer .social-media-list li a:hover { color: white; }
+.site-footer .social-media-list li a .nostr-icon { width: 36px; height: 36px; margin-right: 0.5rem; vertical-align: middle; border-radius: 6px; }
+.site-footer .social-media-list li a .x-icon { width: 18px; height: 18px; margin-right: 0.5rem; vertical-align: middle; border-radius: 3px; }
+.site-footer .social-media-list li a .svg-icon { width: 18px; height: 18px; margin-right: 0.5rem; fill: var(--bitcoin-orange-light); }
+.site-footer .social-media-list li a:hover .nostr-icon { transform: scale(1.05); opacity: 0.9; }
+.site-footer .social-media-list li a:hover .x-icon { transform: scale(1.05); opacity: 0.9; }
+.site-footer .social-media-list li a:hover .svg-icon { fill: white; }
+.site-footer .social-media-list li a .username { font-weight: 500; }
+@media screen and (max-width: 768px) { .site-footer .social-media-list { flex-direction: column; gap: 1rem; } }
+
+/* Responsive Design */
+@media screen and (max-width: 768px) { .site-header .site-title { font-size: 1.4rem; }
+  .site-header .site-title .bitcoin-logo { width: 2rem; height: 2rem; margin-right: 0.8rem; }
+  .page-content { padding-top: 1rem; }
+  .page-content .wrapper { margin: 0.5rem; padding: 1.5rem; border-radius: 12px; }
+  .post .post-header .post-title { font-size: 2rem; }
+  .home .post-list li { padding: 1.5rem; }
+  .home .post-list li span { display: block; margin-bottom: 0.8rem; margin-right: 0; text-align: center; }
+  .home .post-list li a { font-size: 1rem; }
+  .home .post-list-heading { font-size: 1.6rem; text-align: center; } }
+/* Focus states for accessibility */
+a:focus, button:focus { outline: 2px solid var(--bitcoin-orange); outline-offset: 2px; }
