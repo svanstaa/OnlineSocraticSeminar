@@ -22,7 +22,7 @@ title: Bitcoin Socratic Seminar Online
 #email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
 #baseurl: "/OnlineSocraticSeminar" # the subpath of your site, e.g. /blog
-url: "https://bitcoinsocratic.online" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://bitcoinsocratic.de" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: OnlineSocratic
 future: true
 #github_username:  jekyll
