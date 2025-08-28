@@ -431,3 +431,143 @@ a:focus, button:focus {
   outline: 2px solid var(--bitcoin-orange);
   outline-offset: 2px;
 }
+
+/* Topic suggestions section */
+.topic-suggestions {
+  margin: 40px 0;
+  padding: 30px;
+  background: linear-gradient(135deg, #f8f9fa 0%, #ffffff 100%);
+  border-radius: 12px;
+  border: 1px solid #e9ecef;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+
+  h2 {
+    color: var(--bitcoin-orange);
+    margin-bottom: 20px;
+    text-align: center;
+    font-size: 1.8rem;
+  }
+
+  .suggestion-methods {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 30px;
+    margin-top: 25px;
+
+    @media (max-width: 768px) {
+      grid-template-columns: 1fr;
+      gap: 20px;
+    }
+  }
+
+  .method {
+    padding: 25px;
+    background: white;
+    border-radius: 10px;
+    border: 1px solid #dee2e6;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+
+    h3 {
+      color: var(--dark-gray);
+      margin-bottom: 15px;
+      font-size: 1.3rem;
+    }
+
+    p {
+      color: var(--text-light);
+      margin-bottom: 20px;
+      line-height: 1.6;
+    }
+  }
+
+  .btn-github, .btn-telegram {
+    display: inline-block;
+    padding: 12px 24px;
+    border-radius: 6px;
+    text-decoration: none;
+    font-weight: 600;
+    text-align: center;
+    transition: all 0.3s ease;
+    cursor: pointer;
+    border: none;
+    font-size: 14px;
+  }
+
+  .btn-github {
+    background-color: #24292e;
+    color: white;
+
+    &:hover {
+      background-color: #1a1e22;
+      transform: translateY(-2px);
+    }
+  }
+
+  .btn-telegram {
+    background-color: #0088cc;
+    color: white;
+    width: 100%;
+
+    &:hover {
+      background-color: #006699;
+      transform: translateY(-2px);
+    }
+  }
+
+  .telegram-form {
+    input[type="text"], textarea {
+      width: 100%;
+      padding: 12px;
+      border: 1px solid #ced4da;
+      border-radius: 6px;
+      font-family: inherit;
+      font-size: 14px;
+      margin-bottom: 15px;
+
+      &:focus {
+        outline: none;
+        border-color: var(--bitcoin-orange);
+        box-shadow: 0 0 0 2px rgba(247, 147, 26, 0.2);
+      }
+    }
+
+    textarea {
+      resize: vertical;
+    }
+  }
+
+  .status-message {
+    margin-top: 15px;
+    padding: 10px;
+    border-radius: 6px;
+    font-size: 14px;
+    font-weight: 500;
+
+    .success {
+      color: #155724;
+      background-color: #d4edda;
+      border: 1px solid #c3e6cb;
+      padding: 8px 12px;
+      border-radius: 4px;
+      display: block;
+    }
+
+    .error {
+      color: #721c24;
+      background-color: #f8d7da;
+      border: 1px solid #f5c6cb;
+      padding: 8px 12px;
+      border-radius: 4px;
+      display: block;
+    }
+
+    .loading {
+      color: #004085;
+      background-color: #cce5ff;
+      border: 1px solid #99d3ff;
+      padding: 8px 12px;
+      border-radius: 4px;
+      display: block;
+    }
+  }
+}

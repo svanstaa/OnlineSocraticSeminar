@@ -32,14 +32,24 @@
           </span>
         </label>
 
-        <div class="trigger"><a class="page-link" href="/about/">Über</a></div>
+        <div class="trigger"><a class="page-link" href="/about/">Über</a><a class="page-link" href="/TELEGRAM_SETUP.html">Telegram Bot Setup für Themenvorschläge</a></div>
       </nav></div>
 </header>
 <main class="page-content" aria-label="Content">
       <div class="wrapper">
         <div class="home">
-<h2 class="post-list-heading">Posts</h2>
-    <ul class="post-list"><li><span class="post-meta">Jul 23, 2025</span>
+<h2 class="post-list-heading">Sessions</h2>
+    <ul class="post-list"><li><span class="post-meta">Sep 24, 2025</span>
+        <h3>
+          <a class="post-link" href="/2025/09/24/online-socratic-seminar-15.html">
+            Online Socratic Seminar #15
+          </a>
+        </h3></li><li><span class="post-meta">Aug 27, 2025</span>
+        <h3>
+          <a class="post-link" href="/2025/08/27/online-socratic-seminar-14.html">
+            Online Socratic Seminar #14
+          </a>
+        </h3></li><li><span class="post-meta">Jul 23, 2025</span>
         <h3>
           <a class="post-link" href="/2025/07/23/online-socratic-seminar-13.html">
             Online Socratic Seminar #13
@@ -104,9 +114,87 @@
           <a class="post-link" href="/2024/06/26/online-socratic-seminar-1.html">
             Online Socratic Seminar #1
           </a>
-        </h3></li></ul>
+        </h3></li></ul><div class="topic-suggestions">
+    <h2>Themen für die nächste Session vorschlagen</h2>
+    
+    <div class="suggestion-methods">
+      <div class="method github-method">
+        <h3>📝 Via GitHub Issues</h3>
+        <p>Erstelle ein Issue in unserem Repository um Diskussionsthemen vorzuschlagen:</p>
+        <a href="https://github.com/svanstaa/OnlineSocraticSeminar/issues/new?title=Themenvorschlag:&body=**Thema:**%0A%0A**Link(s):**%0A%0A**Warum%20ist%20das%20interessant%20für%20die%20Diskussion?**%0A" 
+           target="_blank" class="btn-github">
+          Themenvorschlag Issue erstellen
+        </a>
+      </div>
+      
+      <div class="method telegram-method">
+        <h3>💬 Via Telegram</h3>
+        <p>Sende deinen Vorschlag direkt an unseren Telegram-Kanal:</p>
+        <form class="telegram-form" onsubmit="sendToTelegram(event)">
+          <input type="text" id="submitterName" placeholder="Dein Name (optional)" />
+          <textarea id="topicSuggestion" placeholder="Gib hier deinen Themenvorschlag ein..." rows="4"></textarea>
+          <button type="submit" class="btn-telegram" id="telegramBtn">An Telegram-Kanal senden</button>
+        </form>
+        <div id="telegramStatus" class="status-message"></div>
+      </div>
+    </div>
+  </div>
 
-    <p class="rss-subscribe">subscribe <a href="/feed.xml">via RSS</a></p></div>
+  <script>
+    async function sendToTelegram(event) {
+      event.preventDefault();
+      const suggestion = document.getElementById('topicSuggestion').value.trim();
+      const submitterName = document.getElementById('submitterName').value.trim();
+      const statusDiv = document.getElementById('telegramStatus');
+      const submitBtn = document.getElementById('telegramBtn');
+      
+      if (!suggestion) {
+        statusDiv.innerHTML = '<span class="error">Bitte gib einen Themenvorschlag ein</span>';
+        return;
+      }
+      
+      // Show loading state
+      submitBtn.disabled = true;
+      submitBtn.textContent = 'Wird gesendet...';
+      statusDiv.innerHTML = '<span class="loading">Sende an Telegram-Kanal...</span>';
+      
+      try {
+        const response = await fetch('/api/telegram-suggestion', {
+          method: 'POST',
+          headers: {
+            'Content-Type': 'application/json',
+          },
+          body: JSON.stringify({
+            suggestion: suggestion,
+            submitterName: submitterName || 'Anonym',
+            timestamp: new Date().toISOString()
+          })
+        });
+        
+        if (response.ok) {
+          statusDiv.innerHTML = '<span class="success">✅ Themenvorschlag erfolgreich an den Telegram-Kanal gesendet!</span>';
+          document.getElementById('topicSuggestion').value = '';
+          document.getElementById('submitterName').value = '';
+        } else {
+          throw new Error('Server error');
+        }
+      } catch (error) {
+        console.error('Error:', error);
+        statusDiv.innerHTML = '<span class="error">❌ Fehler beim Senden. Bitte versuche es später erneut oder nutze GitHub Issues.</span>';
+      } finally {
+        // Reset button
+        submitBtn.disabled = false;
+        submitBtn.textContent = 'An Telegram-Kanal senden';
+        
+        // Clear status after 5 seconds
+        setTimeout(() => {
+          statusDiv.innerHTML = '';
+        }, 5000);
+      }
+    }
+  </script>
+
+</div>
 
       </div>
     </main><footer class="site-footer h-card">
