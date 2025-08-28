@@ -281,6 +281,11 @@ a:focus, button:focus { outline: 2px solid var(--bitcoin-orange); outline-offset
 /* Topic suggestions section */
 .topic-suggestions { margin: 40px 0; padding: 30px; background: linear-gradient(135deg, #f8f9fa 0%, #ffffff 100%); border-radius: 12px; border: 1px solid #e9ecef; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1); }
 .topic-suggestions h2 { color: var(--bitcoin-orange); margin-bottom: 20px; text-align: center; font-size: 1.8rem; }
+.topic-suggestions .topic-suggestion-link { text-align: center; margin: 30px 0 0 0; padding: 20px 0 0 0; border-top: 1px solid #dee2e6; }
+.topic-suggestions .topic-suggestion-link p { margin: 0; }
+.topic-suggestions .topic-suggestion-link .suggest-topics-btn { display: inline-block; padding: 8px 16px; background-color: transparent; color: var(--bitcoin-orange); text-decoration: none; border: 1px solid var(--bitcoin-orange); border-radius: 6px; font-weight: 500; font-size: 14px; transition: all 0.3s ease; }
+.topic-suggestions .topic-suggestion-link .suggest-topics-btn:hover { background-color: var(--bitcoin-orange); color: white; text-decoration: none; }
+.topic-suggestions .topic-suggestion-link .suggest-topics-btn:focus { outline: 2px solid var(--bitcoin-orange); outline-offset: 2px; }
 .topic-suggestions .suggestion-methods { display: grid; grid-template-columns: 1fr 1fr; gap: 30px; margin-top: 25px; }
 @media (max-width: 768px) { .topic-suggestions .suggestion-methods { grid-template-columns: 1fr; gap: 20px; } }
 .topic-suggestions .method { padding: 25px; background: white; border-radius: 10px; border: 1px solid #dee2e6; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05); }

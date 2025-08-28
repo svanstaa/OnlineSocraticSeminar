@@ -448,6 +448,41 @@ a:focus, button:focus {
     font-size: 1.8rem;
   }
 
+  .topic-suggestion-link {
+    text-align: center;
+    margin: 30px 0 0 0;
+    padding: 20px 0 0 0;
+    border-top: 1px solid #dee2e6;
+
+    p {
+      margin: 0;
+    }
+
+    .suggest-topics-btn {
+      display: inline-block;
+      padding: 8px 16px;
+      background-color: transparent;
+      color: var(--bitcoin-orange);
+      text-decoration: none;
+      border: 1px solid var(--bitcoin-orange);
+      border-radius: 6px;
+      font-weight: 500;
+      font-size: 14px;
+      transition: all 0.3s ease;
+
+      &:hover {
+        background-color: var(--bitcoin-orange);
+        color: white;
+        text-decoration: none;
+      }
+
+      &:focus {
+        outline: 2px solid var(--bitcoin-orange);
+        outline-offset: 2px;
+      }
+    }
+  }
+
   .suggestion-methods {
     display: grid;
     grid-template-columns: 1fr 1fr;
