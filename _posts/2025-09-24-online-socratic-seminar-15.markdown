@@ -20,7 +20,6 @@ title: "Online Socratic Seminar #15"
 - [time2build Breez virtual Hackathon](https://docs.google.com/presentation/d/1D_6b0Ho7yMbuIbGiWXlYlwv0xbsVPBdCl625m0NlVkM/edit?slide=id.p#slide=id.p)
 - [PayPal to support Ethereum and Bitcoin](https://newsroom.paypal-corp.com/2025-09-15-PayPal-Ushers-in-a-New-Era-of-Peer-to-Peer-Payments,-Reimagining-How-Money-Moves-to-Anyone,-Anywhere)
 - [Unstoppable JPGs In Private Keys](https://blog.bitmex.com/the-unstoppable-jpg-in-private-keys/)
-- []()
 
 ## Network Data
 
