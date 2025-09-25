@@ -286,20 +286,9 @@ a:focus, button:focus { outline: 2px solid var(--bitcoin-orange); outline-offset
 .topic-suggestions .topic-suggestion-link .suggest-topics-btn { display: inline-block; padding: 8px 16px; background-color: transparent; color: var(--bitcoin-orange); text-decoration: none; border: 1px solid var(--bitcoin-orange); border-radius: 6px; font-weight: 500; font-size: 14px; transition: all 0.3s ease; }
 .topic-suggestions .topic-suggestion-link .suggest-topics-btn:hover { background-color: var(--bitcoin-orange); color: white; text-decoration: none; }
 .topic-suggestions .topic-suggestion-link .suggest-topics-btn:focus { outline: 2px solid var(--bitcoin-orange); outline-offset: 2px; }
-.topic-suggestions .suggestion-methods { display: grid; grid-template-columns: 1fr 1fr; gap: 30px; margin-top: 25px; }
-@media (max-width: 768px) { .topic-suggestions .suggestion-methods { grid-template-columns: 1fr; gap: 20px; } }
+.topic-suggestions .suggestion-methods { display: block; margin-top: 25px; }
 .topic-suggestions .method { padding: 25px; background: white; border-radius: 10px; border: 1px solid #dee2e6; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05); }
 .topic-suggestions .method h3 { color: var(--dark-gray); margin-bottom: 15px; font-size: 1.3rem; }
 .topic-suggestions .method p { color: var(--text-light); margin-bottom: 20px; line-height: 1.6; }
-.topic-suggestions .btn-github, .topic-suggestions .btn-telegram { display: inline-block; padding: 12px 24px; border-radius: 6px; text-decoration: none; font-weight: 600; text-align: center; transition: all 0.3s ease; cursor: pointer; border: none; font-size: 14px; }
-.topic-suggestions .btn-github { background-color: #24292e; color: white; }
+.topic-suggestions .btn-github { display: inline-block; padding: 12px 24px; border-radius: 6px; text-decoration: none; font-weight: 600; text-align: center; transition: all 0.3s ease; cursor: pointer; border: none; font-size: 14px; background-color: #24292e; color: white; }
 .topic-suggestions .btn-github:hover { background-color: #1a1e22; transform: translateY(-2px); }
-.topic-suggestions .btn-telegram { background-color: #0088cc; color: white; width: 100%; }
-.topic-suggestions .btn-telegram:hover { background-color: #006699; transform: translateY(-2px); }
-.topic-suggestions .telegram-form input[type="text"], .topic-suggestions .telegram-form textarea { width: 100%; padding: 12px; border: 1px solid #ced4da; border-radius: 6px; font-family: inherit; font-size: 14px; margin-bottom: 15px; }
-.topic-suggestions .telegram-form input[type="text"]:focus, .topic-suggestions .telegram-form textarea:focus { outline: none; border-color: var(--bitcoin-orange); box-shadow: 0 0 0 2px rgba(247, 147, 26, 0.2); }
-.topic-suggestions .telegram-form textarea { resize: vertical; }
-.topic-suggestions .status-message { margin-top: 15px; padding: 10px; border-radius: 6px; font-size: 14px; font-weight: 500; }
-.topic-suggestions .status-message .success { color: #155724; background-color: #d4edda; border: 1px solid #c3e6cb; padding: 8px 12px; border-radius: 4px; display: block; }
-.topic-suggestions .status-message .error { color: #721c24; background-color: #f8d7da; border: 1px solid #f5c6cb; padding: 8px 12px; border-radius: 4px; display: block; }
-.topic-suggestions .status-message .loading { color: #004085; background-color: #cce5ff; border: 1px solid #99d3ff; padding: 8px 12px; border-radius: 4px; display: block; }

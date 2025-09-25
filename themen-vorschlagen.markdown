@@ -24,4 +24,4 @@ permalink: /themen-vorschlagen/
 
 ---
 
-*Nutze die Formulare auf der [Hauptseite]({{ "/" | relative_url }}) um deine Vorschläge einzureichen.*
+*Nutze GitHub Issues auf der [Hauptseite]({{ "/" | relative_url }}) um deine Vorschläge einzureichen.*

@@ -484,15 +484,8 @@ a:focus, button:focus {
   }
 
   .suggestion-methods {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: 30px;
+    display: block;
     margin-top: 25px;
-
-    @media (max-width: 768px) {
-      grid-template-columns: 1fr;
-      gap: 20px;
-    }
   }
 
   .method {
@@ -515,7 +508,7 @@ a:focus, button:focus {
     }
   }
 
-  .btn-github, .btn-telegram {
+  .btn-github {
     display: inline-block;
     padding: 12px 24px;
     border-radius: 6px;
@@ -526,83 +519,12 @@ a:focus, button:focus {
     cursor: pointer;
     border: none;
     font-size: 14px;
-  }
-
-  .btn-github {
     background-color: #24292e;
     color: white;
 
     &:hover {
       background-color: #1a1e22;
       transform: translateY(-2px);
-    }
-  }
-
-  .btn-telegram {
-    background-color: #0088cc;
-    color: white;
-    width: 100%;
-
-    &:hover {
-      background-color: #006699;
-      transform: translateY(-2px);
-    }
-  }
-
-  .telegram-form {
-    input[type="text"], textarea {
-      width: 100%;
-      padding: 12px;
-      border: 1px solid #ced4da;
-      border-radius: 6px;
-      font-family: inherit;
-      font-size: 14px;
-      margin-bottom: 15px;
-
-      &:focus {
-        outline: none;
-        border-color: var(--bitcoin-orange);
-        box-shadow: 0 0 0 2px rgba(247, 147, 26, 0.2);
-      }
-    }
-
-    textarea {
-      resize: vertical;
-    }
-  }
-
-  .status-message {
-    margin-top: 15px;
-    padding: 10px;
-    border-radius: 6px;
-    font-size: 14px;
-    font-weight: 500;
-
-    .success {
-      color: #155724;
-      background-color: #d4edda;
-      border: 1px solid #c3e6cb;
-      padding: 8px 12px;
-      border-radius: 4px;
-      display: block;
-    }
-
-    .error {
-      color: #721c24;
-      background-color: #f8d7da;
-      border: 1px solid #f5c6cb;
-      padding: 8px 12px;
-      border-radius: 4px;
-      display: block;
-    }
-
-    .loading {
-      color: #004085;
-      background-color: #cce5ff;
-      border: 1px solid #99d3ff;
-      padding: 8px 12px;
-      border-radius: 4px;
-      display: block;
     }
   }
 }

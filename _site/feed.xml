@@ -1,8 +1,52 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.5">Jekyll</generator><link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://0.0.0.0:4000/" rel="alternate" type="text/html" /><updated>2025-08-28T09:37:11+02:00</updated><id>http://0.0.0.0:4000/feed.xml</id><title type="html">Bitcoin Socratic Seminar Online</title><subtitle></subtitle><entry><title type="html">Online Socratic Seminar #15</title><link href="http://0.0.0.0:4000/2025/09/24/online-socratic-seminar-15.html" rel="alternate" type="text/html" title="Online Socratic Seminar #15" /><published>2025-09-24T00:00:00+02:00</published><updated>2025-09-24T00:00:00+02:00</updated><id>http://0.0.0.0:4000/2025/09/24/online-socratic-seminar-15</id><content type="html" xml:base="http://0.0.0.0:4000/2025/09/24/online-socratic-seminar-15.html"><![CDATA[<h2 id="session-links-249-2030">Session links (24.9. 20:30)</h2>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.5">Jekyll</generator><link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://0.0.0.0:4000/" rel="alternate" type="text/html" /><updated>2025-09-25T18:54:21+02:00</updated><id>http://0.0.0.0:4000/feed.xml</id><title type="html">Bitcoin Socratic Seminar Online</title><subtitle></subtitle><entry><title type="html">Online Socratic Seminar #16</title><link href="http://0.0.0.0:4000/2025/10/22/online-socratic-seminar-16.html" rel="alternate" type="text/html" title="Online Socratic Seminar #16" /><published>2025-10-22T00:00:00+02:00</published><updated>2025-10-22T00:00:00+02:00</updated><id>http://0.0.0.0:4000/2025/10/22/online-socratic-seminar-16</id><content type="html" xml:base="http://0.0.0.0:4000/2025/10/22/online-socratic-seminar-16.html"><![CDATA[<h2 id="session-links-2210-2030">Session links (22.10. 20:30)</h2>
 
 <ul>
   <li><a href="https://meet.jit.si/moderated/8258683a311677c4d07e7cc16ad5c2d817a285137af52fc0b447177b1faeae6b">Jitsi</a></li>
   <li><a href="https://fountain.fm/show/ZRopbw0irxT5HgbS3XYq">fountain.fm</a></li>
+</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[Session links (22.10. 20:30)]]></summary></entry><entry><title type="html">Online Socratic Seminar #15</title><link href="http://0.0.0.0:4000/2025/09/24/online-socratic-seminar-15.html" rel="alternate" type="text/html" title="Online Socratic Seminar #15" /><published>2025-09-24T00:00:00+02:00</published><updated>2025-09-24T00:00:00+02:00</updated><id>http://0.0.0.0:4000/2025/09/24/online-socratic-seminar-15</id><content type="html" xml:base="http://0.0.0.0:4000/2025/09/24/online-socratic-seminar-15.html"><![CDATA[<h2 id="session-links-249-2030">Session links (24.9. 20:30)</h2>
+
+<ul>
+  <li><a href="https://meet.jit.si/moderated/8258683a311677c4d07e7cc16ad5c2d817a285137af52fc0b447177b1faeae6b">Jitsi</a></li>
+  <li><a href="https://fountain.fm/show/ZRopbw0irxT5HgbS3XYq">fountain.fm</a></li>
+</ul>
+
+<h2 id="securitycvesinfosecresearch">Security/CVEs/InfoSec/Research</h2>
+
+<ul>
+  <li><a href="https://binaryigor.com/bitcoin-core-code.html">Bitcoin Core Code: C++, some Python and a Custom Build System</a></li>
+  <li><a href="https://messari.io/report/state-of-rootstock-q2-2025">State of Rootstock Q2 2025</a></li>
+  <li><a href="https://jdstaerk.substack.com/p/we-just-found-malicious-code-in-the">Anatomy of a Billion-Download NPM Supply-Chain Attack</a></li>
+  <li><a href="https://dl.acm.org/doi/10.1145/3708821.3736191">Infiltrated Selfish Mining</a></li>
+</ul>
+
+<h2 id="miscellaneous">Miscellaneous</h2>
+
+<ul>
+  <li><a href="https://docs.google.com/presentation/d/1D_6b0Ho7yMbuIbGiWXlYlwv0xbsVPBdCl625m0NlVkM/edit?slide=id.p#slide=id.p">time2build Breez virtual Hackathon</a></li>
+  <li><a href="https://newsroom.paypal-corp.com/2025-09-15-PayPal-Ushers-in-a-New-Era-of-Peer-to-Peer-Payments,-Reimagining-How-Money-Moves-to-Anyone,-Anywhere">PayPal to support Ethereum and Bitcoin</a></li>
+  <li><a href="https://blog.bitmex.com/the-unstoppable-jpg-in-private-keys/">Unstoppable JPGs In Private Keys</a></li>
+</ul>
+
+<h2 id="network-data">Network Data</h2>
+
+<ul>
+  <li><a href="https://stratum.work/sankey">Sankey Merkle Branches</a></li>
+</ul>
+
+<h3 id="delving-bitcoin">Delving Bitcoin</h3>
+
+<ul>
+  <li><a href="https://delvingbitcoin.org/t/the-state-of-bitcoinfuzz/1946">The state of Bitcoinfuzz</a></li>
+  <li><a href="https://delvingbitcoin.org/t/eclipsing-bitcoin-nodes-with-bgp-interception-attacks">Eclipsing Bitcoin Nodes with BGP Interception Attacks</a></li>
+  <li><a href="https://delvingbitcoin.org/t/sharing-block-templates/1906">Sharing block templates</a></li>
+</ul>
+
+<h2 id="pull-requests">Pull requests</h2>
+
+<h3 id="bips-bolts-and-proposals">BIPs, BOLTs and Proposals</h3>
+
+<ul>
+  <li><a href="https://groups.google.com/g/bitcoindev/c/5NgJbpVDgEc">Bitcoin Encrypted Backup</a></li>
 </ul>]]></content><author><name></name></author><summary type="html"><![CDATA[Session links (24.9. 20:30)]]></summary></entry><entry><title type="html">Online Socratic Seminar #14</title><link href="http://0.0.0.0:4000/2025/08/27/online-socratic-seminar-14.html" rel="alternate" type="text/html" title="Online Socratic Seminar #14" /><published>2025-08-27T00:00:00+02:00</published><updated>2025-08-27T00:00:00+02:00</updated><id>http://0.0.0.0:4000/2025/08/27/online-socratic-seminar-14</id><content type="html" xml:base="http://0.0.0.0:4000/2025/08/27/online-socratic-seminar-14.html"><![CDATA[<h2 id="session-links-278-2030">Session links (27.8. 20:30)</h2>
 
 <ul>
@@ -367,49 +411,4 @@ An Exposition of Pathfinding Strategies Within Lightning Network Clients
 
 <ul>
   <li><a href="https://github.com/lightningdevkit/rust-lightning/releases/tag/v0.1">The LDK 0.1 release represents an important milestone for the LDK project</a></li>
-</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[Session links (22.01. 20:30)]]></summary></entry><entry><title type="html">Online Socratic Seminar #6</title><link href="http://0.0.0.0:4000/2024/11/27/online-socratic-seminar-6.html" rel="alternate" type="text/html" title="Online Socratic Seminar #6" /><published>2024-11-27T00:00:00+01:00</published><updated>2024-11-27T00:00:00+01:00</updated><id>http://0.0.0.0:4000/2024/11/27/online-socratic-seminar-6</id><content type="html" xml:base="http://0.0.0.0:4000/2024/11/27/online-socratic-seminar-6.html"><![CDATA[<h2 id="session-links-2711-2030">Session links (27.11. 20:30)</h2>
-
-<ul>
-  <li><a href="https://meet.jit.si/moderated/8258683a311677c4d07e7cc16ad5c2d817a285137af52fc0b447177b1faeae6b">Jitsi</a></li>
-  <li><a href="https://fountain.fm/show/ZRopbw0irxT5HgbS3XYq">fountain.fm</a></li>
-</ul>
-
-<h2 id="securitycvesinfosecresearch">Security/CVEs/InfoSec/Research</h2>
-
-<ul>
-  <li><a href="https://www.bitcoinos.build/">BitcoinOS</a></li>
-  <li><a href="https://bitcoincore.org/en/2024/11/05/cb-stall-hindering-propagation/">Disclosure of hindered block propagation due to stalling peers</a></li>
-  <li><a href="https://github.com/bitcoin-cap/bcap">Lyn Alden, Steve Lee, Ren: Analyzing Bitcoin Consensus: Risks in Protocol Upgrades</a></li>
-  <li><a href="https://colliderscript.co/colliderscript.pdf">Heilman et al., Colliderscript: Covenants in Bitcoin via 160-bit hash collisions</a></li>
-  <li><a href="https://bitvmx.org/">BitVMX: a CPU for Universal Computation on Bitcoin</a></li>
-</ul>
-
-<h2 id="miscellaneous">Miscellaneous</h2>
-
-<ul>
-  <li><a href="https://www.mining.build/blog/introducing-proto-building-the-future-of-bitcoin-mining-hardware-2/">Block Introducing Proto: Building the future of bitcoin mining hardware</a></li>
-  <li><a href="https://blog.lopp.net/bitcoin-node-sync-with-utxo-snapshots/">Boost Your Bitcoin Node Sync With UTXO Snapshots</a></li>
-  <li><a href="https://learning.chaincode.com/">Start your career in bitcoin OSS</a></li>
-  <li><a href="https://emailbtc.net/">Send Bitcoin to anyone that has an email address</a></li>
-  <li><a href="https://2140.dev/">Supporting Bitcoin to 2140 and beyond</a></li>
-</ul>
-
-<h2 id="europegermanyberlin">Europe/Germany/Berlin</h2>
-
-<ul>
-  <li><a href="https://www.telekom.com/en/media/media-information/archive/test-bitcoin-mining-infrastructure-for-surplus-energy-108268">Telekom and Bankhaus Metzler Test Bitcoin Mining Infrastructure for Surplus Energy</a></li>
-</ul>
-
-<h2 id="mailing-lists">Mailing Lists</h2>
-
-<h3 id="bitcoin-dev">bitcoin-dev</h3>
-
-<ul>
-  <li><a href="https://bitcoincore.org/en/releases/28.0/">Neue Bitcoin Core Version 28.0</a></li>
-</ul>
-
-<h3 id="delving-bitcoin">Delving Bitcoin</h3>
-
-<ul>
-  <li><a href="https://delvingbitcoin.org/t/mutation-core-a-mutation-testing-tool-for-bitcoin-core/111">Mutation-core: A mutation testing tool for Bitcoin Core</a></li>
-</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[Session links (27.11. 20:30)]]></summary></entry></feed>
+</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[Session links (22.01. 20:30)]]></summary></entry></feed>

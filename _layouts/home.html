@@ -41,76 +41,11 @@ layout: default
           Themenvorschlag Issue erstellen
         </a>
       </div>
-      
-      <div class="method telegram-method">
-        <h3>💬 Via Telegram</h3>
-        <p>Sende deinen Vorschlag direkt an unseren Telegram-Kanal:</p>
-        <form class="telegram-form" onsubmit="sendToTelegram(event)">
-          <input type="text" id="submitterName" placeholder="Dein Name (optional)" />
-          <textarea id="topicSuggestion" placeholder="Gib hier deinen Themenvorschlag ein..." rows="4"></textarea>
-          <button type="submit" class="btn-telegram" id="telegramBtn">An Telegram-Kanal senden</button>
-        </form>
-        <div id="telegramStatus" class="status-message"></div>
-      </div>
     </div>
     
     <div class="topic-suggestion-link">
       <p><a href="{{ "/themen-vorschlagen/" | relative_url }}" class="suggest-topics-btn">💡 Tipps für gute Themenvorschläge</a></p>
     </div>
   </div>
-
-  <script>
-    async function sendToTelegram(event) {
-      event.preventDefault();
-      const suggestion = document.getElementById('topicSuggestion').value.trim();
-      const submitterName = document.getElementById('submitterName').value.trim();
-      const statusDiv = document.getElementById('telegramStatus');
-      const submitBtn = document.getElementById('telegramBtn');
-      
-      if (!suggestion) {
-        statusDiv.innerHTML = '<span class="error">Bitte gib einen Themenvorschlag ein</span>';
-        return;
-      }
-      
-      // Show loading state
-      submitBtn.disabled = true;
-      submitBtn.textContent = 'Wird gesendet...';
-      statusDiv.innerHTML = '<span class="loading">Sende an Telegram-Kanal...</span>';
-      
-      try {
-        const response = await fetch('/api/telegram-suggestion', {
-          method: 'POST',
-          headers: {
-            'Content-Type': 'application/json',
-          },
-          body: JSON.stringify({
-            suggestion: suggestion,
-            submitterName: submitterName || 'Anonym',
-            timestamp: new Date().toISOString()
-          })
-        });
-        
-        if (response.ok) {
-          statusDiv.innerHTML = '<span class="success">✅ Themenvorschlag erfolgreich an den Telegram-Kanal gesendet!</span>';
-          document.getElementById('topicSuggestion').value = '';
-          document.getElementById('submitterName').value = '';
-        } else {
-          throw new Error('Server error');
-        }
-      } catch (error) {
-        console.error('Error:', error);
-        statusDiv.innerHTML = '<span class="error">❌ Fehler beim Senden. Bitte versuche es später erneut oder nutze GitHub Issues.</span>';
-      } finally {
-        // Reset button
-        submitBtn.disabled = false;
-        submitBtn.textContent = 'An Telegram-Kanal senden';
-        
-        // Clear status after 5 seconds
-        setTimeout(() => {
-          statusDiv.innerHTML = '';
-        }, 5000);
-      }
-    }
-  </script>
 
 </div>
