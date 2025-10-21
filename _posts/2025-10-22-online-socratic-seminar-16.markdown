@@ -9,38 +9,37 @@ title: "Online Socratic Seminar #16"
 - [fountain.fm](https://fountain.fm/show/ZRopbw0irxT5HgbS3XYq)
 
 
+## OP_RETURN/Spam/datacarriersize/v30-Debatte
+- [Bitcoin Core v30 Release Notes ](https://github.com/bitcoin/bitcoin/blob/d615eb6998eeccb9106854dffa95f36b319177e1/doc/release-notes.md)
+- [Die 21 wichtigsten Fragen zur OP_Return-Debatte](https://www.blocktrainer.de/blog/die-21-wichtigsten-fragen-zur-op-return-debatte)
+- [Pieter Wuille on DelvingBitcoin. Re: spam and OP_RETURN](https://delvingbitcoin.org/t/response-to-pieter-wuilles-stackexchange-answer-re-nuking-the-opreturn-filter/1991/11)
+- [Bitcoin Quantum resistance response playbook](https://github.com/deadmanoz/bitcoin-crqc-response-playbook)
+- [Luke Dashjr Plans Hardfork To “Save Bitcoin”](https://www.therage.co/leaked-luke-dashjr-bitcoin-hardfork/)
+- [It's Knot a Serious Project](https://blog.lopp.net/knot-a-serious-project/)
+
 ## Security/CVEs/InfoSec/Research
 
-- [Bitcoin Core Code: C++, some Python and a Custom Build System](https://binaryigor.com/bitcoin-core-code.html)
-- [State of Rootstock Q2 2025](https://messari.io/report/state-of-rootstock-q2-2025)
-- [Anatomy of a Billion-Download NPM Supply-Chain Attack](https://jdstaerk.substack.com/p/we-just-found-malicious-code-in-the
-)
-- [Infiltrated Selfish Mining](https://dl.acm.org/doi/10.1145/3708821.3736191)
+- [Eclair: Preimage Extraction Exploit](https://morehouse.github.io/lightning/eclair-preimage-extraction-exploit/)
+- [Quantitative Analysis of Centralization in the Bitcoin Lightning Network Through Centrality Metrics](https://ieeexplore.ieee.org/abstract/document/11177488)
+- [Hornet Node and the Hornet DSL](https://hornetnode.org/paper.html)
 
 ## Miscellaneous
 
-- [time2build Breez virtual Hackathon](https://docs.google.com/presentation/d/1D_6b0Ho7yMbuIbGiWXlYlwv0xbsVPBdCl625m0NlVkM/edit?slide=id.p#slide=id.p)
-- [PayPal to support Ethereum and Bitcoin](https://newsroom.paypal-corp.com/2025-09-15-PayPal-Ushers-in-a-New-Era-of-Peer-to-Peer-Payments,-Reimagining-How-Money-Moves-to-Anyone,-Anywhere)
-- [Unstoppable JPGs In Private Keys](https://blog.bitmex.com/the-unstoppable-jpg-in-private-keys/)
+- [A perspective on Bitcoin governance](https://pretyflaco.github.io/bitcoingovernance/)
+- [Localhost Transparency report](https://lclhost.org/blog/transparency-report-002/)
+- [Frigate, neuer Electrum server in Java von Sparrow](https://github.com/sparrowwallet/frigate)
 
 ## Network Data
 
-- [
-Sankey Merkle Branches
-](https://stratum.work/sankey)
-
-
-## Mailing Lists
-
-### Delving Bitcoin
-
-- [The state of Bitcoinfuzz](https://delvingbitcoin.org/t/the-state-of-bitcoinfuzz/1946)
-- [Eclipsing Bitcoin Nodes with BGP Interception Attacks](https://delvingbitcoin.org/t/eclipsing-bitcoin-nodes-with-bgp-interception-attacks)
-- [Sharing block templates](https://delvingbitcoin.org/t/sharing-block-templates/1906)
+- [Stratum.work neues Analyse panel](https://stratum.work/)
+- [Delving: Measuring minrelayftxfee](https://delvingbitcoin.org/t/measuring-minrelaytxfee-across-the-bitcoin-network/1989)
 
 ## Pull requests
 
 ### BIPs, BOLTs and Proposals
 
-- [Bitcoin Encrypted Backup](https://groups.google.com/g/bitcoindev/c/5NgJbpVDgEc)
+- [BIP 153 
+Sharing Block Templates with Peers](
+https://github.com/ajtowns/bips/blob/86d20db638c7b2f1e29f2f3072eab005f5b811d5/bip-0153.md) 
+
 
