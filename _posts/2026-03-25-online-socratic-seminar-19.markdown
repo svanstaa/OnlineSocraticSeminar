@@ -54,5 +54,6 @@ title: "Online Socratic Seminar #19"
 
 ### Bitcoin Core
 
+- [Cluster mempool: SFL cost model (take 2)](https://github.com/bitcoin/bitcoin/pull/34616)
 - [Allow recovery of funds from stolen MtGox coins](https://github.com/bitcoin/bitcoin/pull/34695)
 
