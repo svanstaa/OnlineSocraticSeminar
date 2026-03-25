@@ -54,6 +54,7 @@ title: "Online Socratic Seminar #19"
 
 ### Bitcoin Core
 
+- [upcoming PR Review club: 31.0 release testing guide](https://bitcoincore.reviews/)
 - [Cluster mempool: SFL cost model (take 2)](https://github.com/bitcoin/bitcoin/pull/34616)
 - [Allow recovery of funds from stolen MtGox coins](https://github.com/bitcoin/bitcoin/pull/34695)
 
