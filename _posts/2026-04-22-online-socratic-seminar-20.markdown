@@ -13,6 +13,7 @@ title: "Online Socratic Seminar #20"
 - [Safeguarding cryptocurrencies by disclosing quantum vulnerabilities](https://research.google/blog/safeguarding-cryptocurrency-by-disclosing-quantum-vulnerabilities-responsibly/)
 - [Quantum-Safe Bitcoin Transactions Without Softforks](https://github.com/avihu28/Quantum-Safe-Bitcoin-Transactions/blob/main/paper/QSB.pdf)
 - [BitMEX Research: Attack Blocks](https://www.bitmex.com/blog/attack-blocks)
+- [Block propagation and validation during slow blocks attack](https://bnoc.xyz/t/block-propagation-and-validation-duration-during-slow-to-validate-blocks-on-signet/117)
 - [SHRIMPS: 2.5 KB post-quantum signatures across multiple stateful devices](https://delvingbitcoin.org/t/shrimps-2-5-kb-post-quantum-signatures-across-multiple-stateful-devices/2355)
 
 ## Miscellaneous
