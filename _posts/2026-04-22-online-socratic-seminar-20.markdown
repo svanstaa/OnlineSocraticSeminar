@@ -21,7 +21,6 @@ title: "Online Socratic Seminar #20"
 - [Two block reorg](https://x.com/i/status/2036118084734349542)
 - [Initiative for new Bitcoin Client](https://productionready.org/blog/productionready-launches)
 - [Irish drug dealers' BTC reawaken after 10 years](https://www.theblock.co/post/394991/irish-drug-dealers-lost-500-btc-reawakens)
-- [Production Ready](https://productionready.org/blog/productionready-launches/)
 - [Bitcoin hardware wallet with metal punch card](https://frozensecurity.com/)
 - [Iran Hormuz transit toll paid in crypto](https://breakingthenews.net/Article/Iran-to-charge-ships-for-Hormuz-transit/66029688)
 
