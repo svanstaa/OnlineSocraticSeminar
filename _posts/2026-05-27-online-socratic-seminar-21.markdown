@@ -10,7 +10,6 @@ title: "Online Socratic Seminar #21"
 ## Security/CVEs/InfoSec/Research
 
 - [Pruning Hypertrees for the Lax and Lazy](https://conduition.io/cryptography/hypertree-pruning/)
-- [Researcher breaks 15 bit elliptic curve key](https://x.com/i/status/2047661881846882349)
 - [PACTS - protecting your bitcoin from a quantum sunset](https://www.paradigm.xyz/2026/05/pacts-protecting-your-bitcoin-from-a-quantum-sunset)
 - [UltrafastSecp256k1](https://github.com/shrec/UltrafastSecp256k1)
 - [CVE-2024-52911 - Script Interpreter Remote Crash](https://github.com/darosior/bitcoincore.org/blob/a0f940ec5594bcc3b5ca884ce9c4b62c84f75d41/_posts/en/posts/2026-05-05-disclose-cve-2024-52911.md)
@@ -22,16 +21,14 @@ title: "Online Socratic Seminar #21"
 ## Miscellaneous
 
 - [New Bitcoin Fork (free coins!)](https://x.com/i/status/2047639261453680838)
+- [Ecash.com - BIP300 Fork](https://ecash.com/)
 - [The personality and motivational characteristics ](https://osf.io/yntdu?mode=&revisionId=&view_only=)
 - [Quantum Attack Game Theory](https://blog.lopp.net/quantum-attack-game-theory/)
 - [Knotzi Death March](https://jlopp.github.io/knotzi-death-march/)
 - [RIP Bitnodes](https://x.com/lopp/status/2052725200421286301)
-- [Ecash.com - BIP300 Fork](https://ecash.com/)
-- [Annoucement](https://x.com/truthcoin/status/2047639261453680838?s=46)
 - [New BitKey with screen](https://bitkey.world/blog/meet-the-new-bitkey)
 - [Project Eleven Awards 1 BTC Q-Day Prize for Largest Quantum Attack on Elliptic Curve Cryptography to Date](https://x.com/projecteleven/status/2047661990605156796)
 - [The predictable failure of the QDay Prize](https://algassert.com/post/2601)
-- []()
 
 ## Network Data
 
