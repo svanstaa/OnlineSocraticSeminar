@@ -7,14 +7,6 @@ title: "Online Socratic Seminar #23"
 
 - [Jitsi](https://meet.jit.si/moderated/8258683a311677c4d07e7cc16ad5c2d817a285137af52fc0b447177b1faeae6b)
 
-ayout: post
-title: "Online Socratic Seminar #23"
----
-
-## Session links (23.9. 20:30)
-
-- [Jitsi](https://meet.jit.si/moderated/8258683a311677c4d07e7cc16ad5c2d817a285137af52fc0b447177b1faeae6b)
-
 
 ## Coldcard Hack
 - [Full panic - one of my wallets was drained](https://www.reddit.com/r/Bitcoin/comments/1vatgl4/full_panic_one_of_my_wallets_was_drained/)
